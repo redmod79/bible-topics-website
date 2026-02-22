@@ -27,7 +27,7 @@ Every study follows the same core principles:
 
 | Study | Question |
 |-------|----------|
-| [The Two Genealogies of Jesus](studies/genealogies-of-jesus/CONCLUSION.md) | Why does Matthew trace Jesus' lineage through Solomon while Luke traces it through Nathan? Are the two genealogies contradictory or complementary? |
+| [The Two Genealogies of Jesus](studies/genealogies-of-jesus/conclusion-simple.md) | Why does Matthew trace Jesus' lineage through Solomon while Luke traces it through Nathan? Are the two genealogies contradictory or complementary? |
 
 ---
 
