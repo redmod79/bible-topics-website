@@ -37,7 +37,7 @@ Every study includes multiple layers of research, all accessible through the nav
 
 | File | Contents |
 |------|----------|
-| **Plain Language** | A summary written for general audiences -- no technical jargon |
+| **Simple Conclusion** | A summary written for general audiences -- no technical jargon |
 | **Conclusion** | The final findings of the study |
 | **Analysis** | Verse-by-verse analysis, identified patterns, connections between passages |
 | **Verses** | Full KJV text for every passage examined, organized thematically |

@@ -19,6 +19,63 @@ The central finding of this study is that the two genealogies form an interlocki
 
 A genuine contradiction requires two accounts making the same claim in incompatible ways. These genealogies do not make the same claim -- they make complementary claims from different angles, and the points where they differ are precisely the points where complementary perspectives are needed.
 
+## Visual Overview: The Two Lines
+
+``` mermaid
+flowchart TD
+    AB["<b>ABRAHAM</b><br><i>Gen 12:3; 22:18 — Blessing to all nations</i><br><i>Gal 3:16 — 'thy seed, which is Christ'</i>"]
+    AB --> patriarchs["Isaac → Jacob → <b>Judah</b><br><i>Gen 49:10 — 'The sceptre shall<br>not depart from Judah'</i>"]
+    patriarchs --> dots0["...Pharez¹, Hezron, Ram..."]
+    dots0 --> BZ["Boaz + Ruth²<br><i>Ruth 4 — Kinsman-redeemer</i>"]
+    BZ --> JE["Jesse<br><i>Isa 11:1 — 'Rod from stem of Jesse'</i>"]
+    JE --> DV["<b>★ KING DAVID ★</b><br><i>2 Sam 7:12-16 — 'I will establish<br>the throne of his kingdom for ever'</i><br><i>1 Chr 3:5 — Nathan and Solomon<br>both sons of David and Bathsheba</i>"]
+
+    DV --> SOL["<b>Solomon</b> 👑<br>Royal successor<br><i>Matthew's line</i>"]
+    DV --> NAT["<b>Nathan</b><br>Non-royal son<br><i>Luke's line</i>"]
+
+    SOL --> R1["Rehoboam → Abijah → Asa"]
+    R1 --> R2["Jehoshaphat → Joram → Uzziah"]
+    R2 --> R3["Jotham → Ahaz → Hezekiah"]
+    R3 --> R4["Manasseh → Amon → Josiah"]
+    R4 --> JEC["<b>⚠ JECONIAH ⚠</b><br><i>Jer 22:30 — 'Write ye this man childless...<br>no man of his seed shall prosper,<br>sitting upon the throne of David'</i>"]
+    JEC --> post["Shealtiel³ → Zerubbabel³"]
+    post --> dots2["...Abiud...Eliud...Eleazar..."]
+    dots2 --> JAC["<b>Jacob</b><br><i>Matt 1:16a — 'Jacob <u>begat</u><br>Joseph' (active voice ×39)</i>"]
+    JAC --> JOS["<b>JOSEPH</b><br><i>Matt 1:16b — 'the husband of Mary,<br>of whom [fem.] was born Jesus'</i><br><i>⚡ Voice shift: active → passive</i><br><i>⚡ Pronoun: ex hēs (fem. sing.)</i>"]
+
+    NAT --> L1["Mattatha → Menan → Melea"]
+    L1 --> dots3["...Eliakim...Jonan...Joseph...<br><i>No kings — no Jeconiah curse</i>"]
+    dots3 --> L2["...Mattathias...Amos...Nahum..."]
+    L2 --> dots4["...Matthat..."]
+    dots4 --> HEL["<b>Heli</b><br><i>Luke 3:23 — Joseph 'son of Heli'</i><br><i>Mary's father? (son-in-law usage,</i><br><i>cf. Num 27:7-8; 36:6-7)</i>"]
+    HEL --> MAR["<b>MARY</b><br><i>Biological mother of Jesus</i><br><i>Rom 1:3 — 'seed of David<br>according to the flesh'</i>"]
+
+    JOS -->|"<b>LEGAL</b> fatherhood<br>Matt 1:16 — gennao voice shift<br>Matt 1:18-25 — virgin birth narrative<br>Throne right passes legally"| X["<b>✟ JESUS CHRIST ✟</b><br><i>Matt 1:1 — biblos geneseōs (cf. Gen 5:1)</i><br><i>Legal heir to throne (Matt) — avoids curse</i><br><i>Biological descendant of David (Luke)</i><br><i>Rev 22:16 — 'root and offspring of David'</i>"]
+    MAR -->|"<b>BIOLOGICAL</b> descent<br>Luke 3:23 — 'as was supposed'<br>(hos enomizeto, Impf. Pass.)<br>Uncursed Davidic line"| X
+
+    style DV fill:#ffd700,stroke:#b8860b,color:#000
+    style JEC fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style X fill:#4fc3f7,stroke:#0277bd,color:#000
+    style SOL fill:#fff3e0,stroke:#e65100,color:#000
+    style NAT fill:#e8f5e9,stroke:#2e7d32,color:#000
+    style JOS fill:#fff3e0,stroke:#e65100,color:#000
+    style MAR fill:#e8f5e9,stroke:#2e7d32,color:#000
+    style AB fill:#f3e5f5,stroke:#6a1b9a,color:#000
+    style JE fill:#f3e5f5,stroke:#6a1b9a,color:#000
+    style BZ fill:#f3e5f5,stroke:#6a1b9a,color:#000
+```
+
+**Key to diagram:**
+
+- **Gold** = David, the pivot point where both lines share common ancestry
+- **Orange path** = Matthew's legal royal line (Solomon → Kings of Judah → Jeconiah → Joseph)
+- **Green path** = Luke's biological line (Nathan → non-royal descendants → Heli → Mary)
+- **Red** = Jeconiah, the cursed king whose biological descendants cannot prosper on David's throne (Jer 22:30)
+- **Blue** = Jesus, where both lines converge through the virgin birth
+- **Purple** = Shared ancestors and prophecy fulfillment points
+
+**Footnotes:** ¹Pharez born of Tamar's irregular union with Judah (Gen 38). ²Ruth was a Moabitess (Ruth 1:4). ³Shealtiel and Zerubbabel appear in both genealogies but may represent different individuals or the convergence of levirate lines.
+
 ## Matthew's Genealogy: The Legal Royal Line
 
 Matthew opens his Gospel with "The book of the generation of Jesus Christ, the son of David, the son of Abraham" (Matthew 1:1), echoing the Septuagint's rendering of Genesis 5:1 ("This is the book of the generations of Adam"). The phrase biblos geneseos (G1078) signals a new "genesis" -- the origin of the Messiah.

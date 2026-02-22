@@ -45,7 +45,11 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -75,7 +79,7 @@ nav:
   - Studies:
 
     - "The Two Genealogies of Jesus":
-      - studies/genealogies-of-jesus/conclusion-simple.md
+      - Simple Conclusion: studies/genealogies-of-jesus/conclusion-simple.md
       - Conclusion: studies/genealogies-of-jesus/CONCLUSION.md
       - Analysis: studies/genealogies-of-jesus/03-analysis.md
       - Verses: studies/genealogies-of-jesus/02-verses.md

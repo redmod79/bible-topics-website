@@ -1,4 +1,4 @@
-# The Two Genealogies of Jesus -- A Plain-Language Summary
+# Simple Conclusion: The Two Genealogies of Jesus
 
 ---
 
@@ -15,6 +15,44 @@ Why does Jesus have two different family trees in the Bible? Matthew 1 and Luke 
 **Luke** starts with Jesus and works backward -- past Joseph, past a man named Heli, through David's son Nathan (not Solomon), all the way back to Adam and ultimately to God (Luke 3:38).
 
 The lists share some names (Abraham, Isaac, Jacob, Judah, David), but after David they diverge almost completely. Matthew goes through Solomon; Luke goes through Nathan. Matthew lists Jacob as Joseph's father; Luke lists Heli.
+
+### The Two Lines at a Glance
+
+``` mermaid
+flowchart TD
+    AB["<b>ABRAHAM</b><br><i>Gen 12:3 — 'In thee shall<br>all families be blessed'</i>"]
+    AB --> dots1["...Isaac, Jacob, Judah..."]
+    dots1 --> JE["Jesse"]
+    JE --> DV["<b>★ DAVID ★</b><br><i>2 Sam 7:12-16 — Eternal throne covenant</i>"]
+
+    DV --> SOL["<b>Solomon</b> 👑<br>Royal line"]
+    DV --> NAT["<b>Nathan</b><br>Non-royal son"]
+
+    SOL --> kings["...Kings of Judah...<br><i>Rehoboam, Asa, Jehoshaphat...</i>"]
+    kings --> JEC["<b>⚠ JECONIAH ⚠</b><br><i>Jer 22:30 — 'No man of his seed<br>shall prosper on David's throne'</i>"]
+    JEC --> dots2["...Shealtiel, Zerubbabel..."]
+    dots2 --> JAC["Jacob"]
+    JAC --> JOS["<b>JOSEPH</b><br><i>Matt 1:16 — 'husband of Mary'</i><br>Legal father only"]
+
+    NAT --> dots3["...Mattatha, Menan...<br><i>No kings, no curse</i>"]
+    dots3 --> HEL["Heli<br><i>Mary's father?</i>"]
+    HEL --> MAR["<b>MARY</b><br>Biological mother"]
+
+    JOS -->|"Legal right to throne<br>⚡ Voice shift: 'was born'<br>not 'begat' (Matt 1:16)"| X["<b>✟ JESUS ✟</b><br><i>Legal heir through Joseph<br>Biological descendant through Mary<br>Virgin birth connects both lines</i>"]
+    MAR -->|"Biological descent<br>📝 'as was supposed'<br>(Luke 3:23)"| X
+
+    style DV fill:#ffd700,stroke:#b8860b,color:#000
+    style JEC fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style X fill:#4fc3f7,stroke:#0277bd,color:#000
+    style SOL fill:#fff3e0,stroke:#e65100,color:#000
+    style NAT fill:#e8f5e9,stroke:#2e7d32,color:#000
+    style JOS fill:#fff3e0,stroke:#e65100,color:#000
+    style MAR fill:#e8f5e9,stroke:#2e7d32,color:#000
+```
+
+**Orange path** = Matthew's legal royal line (through Solomon and the kings).
+**Green path** = Luke's biological line (through Nathan, bypassing the curse).
+Both converge at Jesus through the virgin birth.
 
 ---
 
