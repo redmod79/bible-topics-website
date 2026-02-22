@@ -1,0 +1,89 @@
+site_name: "Bible Study Collection"
+site_description: A collection of independent Bible studies on various topics, each produced by tool-driven research using a three-agent pipeline.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Methodology: methodology.md
+  - "Research Tools": tools.md
+
+  - Studies:
+
+    - "The Two Genealogies of Jesus":
+      - studies/genealogies-of-jesus/conclusion-simple.md
+      - Conclusion: studies/genealogies-of-jesus/CONCLUSION.md
+      - Analysis: studies/genealogies-of-jesus/03-analysis.md
+      - Verses: studies/genealogies-of-jesus/02-verses.md
+      - Word Studies: studies/genealogies-of-jesus/04-word-studies.md
+      - Topics: studies/genealogies-of-jesus/01-topics.md
+      - Research Scope: studies/genealogies-of-jesus/PROMPT.md
+      - Raw Data:
+        - "Nave's Entries": studies/genealogies-of-jesus/raw-data/naves-entries.txt
+        - "Cross-Testament Parallels": studies/genealogies-of-jesus/raw-data/cross-testament-parallels.txt
+        - "Greek Parsing": studies/genealogies-of-jesus/raw-data/greek-parsing.txt
+        - "Strong's Lookups": studies/genealogies-of-jesus/raw-data/strongs-lookups.txt
