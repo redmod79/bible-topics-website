@@ -1,0 +1,321 @@
+=== CROSS-TESTAMENT PARALLELS FOR GENEALOGY STUDY ===
+
+=== MAT 1:1 - OT Sources ===
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: MAT 1:1
+======================================================================
+
+  Glosses: [The] book of [the] genealogy of Jesus Christ son of David son of Abraham...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Chronica_I 1:28        0.376   0.67  0.10  0.00  abraham
+  Chronica_I 27:18       0.375   0.69  0.10  0.00  david
+  Genesis 25:19          0.375   0.67  0.10  0.00  abraham
+  Genesis 21:5           0.372   0.68  0.10  0.00  abraham
+  Chronica_I 12:17       0.371   0.68  0.10  0.00  david
+  Samuel_I 17:12         0.370   0.67  0.10  0.00  david
+  Chronica_I 1:34        0.367   0.67  0.10  0.00  abraham
+  Genesis 25:12          0.365   0.65  0.10  0.00  abraham
+  Genesis 35:27          0.365   0.67  0.10  0.00  abraham
+  Psalmi 105:9           0.357   0.65  0.10  0.00  abraham
+  Chronica_I 16:16       0.357   0.65  0.10  0.00  abraham
+  Genesis 21:4           0.352   0.64  0.10  0.00  abraham
+  Genesis 31:53          0.351   0.64  0.10  0.00  abraham
+  Esra 8:2               0.350   0.63  0.10  0.00  david
+  Genesis 17:26          0.350   0.63  0.10  0.00  abraham
+  Psalmi 105:6           0.346   0.62  0.10  0.00  abraham
+  Samuel_II 19:17        0.346   0.63  0.10  0.00  david
+  Proverbia 1:1          0.342   0.61  0.10  0.00  david
+  Chronica_I 27:32       0.341   0.62  0.10  0.00  david
+  Chronica_I 3:1         0.341   0.61  0.10  0.00  david
+
+=== MAT 1:1 - NT Parallels ===
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: MAT 1:1
+======================================================================
+
+  Glosses: [The] book of [the] genealogy of Jesus Christ son of David son of Abraham...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  MRK 1:1                0.413   0.68  0.20  0.00  christ, jesu
+  MRK 12:35              0.411   0.62  0.30  0.00  christ, david, jesu
+  MAT 1:17               0.399   0.63  0.30  0.00  abraham, christ, david
+  2TI 2:8                0.392   0.61  0.30  0.00  christ, david, jesu
+  GAL 3:7                0.387   0.70  0.10  0.00  abraham
+  LUK 20:41              0.385   0.64  0.20  0.00  christ, david
+  MAT 1:2                0.382   0.70  0.10  0.00  abraham
+  LUK 3:34               0.380   0.70  0.10  0.00  abraham
+  MAT 22:42              0.377   0.63  0.20  0.00  christ, david
+  MAT 1:16               0.372   0.63  0.20  0.00  christ, jesu
+  ROM 1:3                0.368   0.67  0.10  0.00  david
+  JUD 1:1                0.362   0.60  0.20  0.00  christ, jesu
+  LUK 1:55               0.359   0.66  0.10  0.00  abraham
+  JAS 1:1                0.356   0.59  0.20  0.00  christ, jesu
+  LUK 19:9               0.355   0.58  0.20  0.00  abraham, jesu
+  JHN 20:31              0.351   0.55  0.20  0.00  christ, jesu
+  COL 1:1                0.349   0.59  0.20  0.00  christ, jesu
+  MAT 22:32              0.348   0.64  0.10  0.00  abraham
+  2CO 1:1                0.347   0.58  0.20  0.00  christ, jesu
+  2TH 1:1                0.346   0.57  0.20  0.00  christ, jesu
+
+=== LUK 3:23 - OT Sources ===
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: LUK 3:23
+======================================================================
+
+  Glosses: And Himself was Jesus beginning about years [old] thirty being son as was supposed...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Genesis 45:28          0.353   0.58  0.20  0.00  beginn, joseph
+  Chronica_I 23:1        0.337   0.61  0.10  0.00  old
+  Esra 2:21              0.331   0.65  0.00  0.00  
+  Exodus 1:6             0.331   0.60  0.10  0.00  joseph
+  Chronica_I 5:2         0.330   0.60  0.10  0.00  joseph
+  Genesis 37:3           0.323   0.58  0.10  0.00  joseph
+  Genesis 50:22          0.323   0.59  0.10  0.00  joseph
+  Samuel_I 17:12         0.318   0.57  0.10  0.00  old
+  Genesis 48:18          0.314   0.57  0.10  0.00  joseph
+  Jeremia 27:1           0.314   0.56  0.10  0.00  beginn
+  Genesis 41:50          0.312   0.50  0.20  0.00  beginn, joseph
+  Genesis 44:14          0.305   0.55  0.10  0.00  joseph
+  Genesis 50:19          0.305   0.55  0.10  0.00  joseph
+  Chronica_I 5:1         0.305   0.54  0.10  0.00  joseph
+  Genesis 45:9           0.302   0.54  0.10  0.00  joseph
+  Reges_II 16:2          0.297   0.58  0.00  0.00  
+  Genesis 41:46          0.296   0.52  0.10  0.00  joseph
+  Genesis 37:2           0.295   0.52  0.10  0.00  joseph
+  Chronica_II 34:3       0.293   0.59  0.00  0.00  
+  Genesis 50:16          0.293   0.53  0.10  0.00  joseph
+
+=== LUK 3:23 - NT Parallels ===
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: LUK 3:23
+======================================================================
+
+  Glosses: And Himself was Jesus beginning about years [old] thirty being son as was supposed...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  MAT 1:18               0.410   0.65  0.30  0.00  about, jesu, joseph
+  JHN 11:51              0.405   0.64  0.30  0.00  about, himself, jesu
+  MAT 1:16               0.400   0.69  0.20  0.00  jesu, joseph
+  MRK 15:43              0.397   0.61  0.30  0.00  himself, jesu, joseph
+  JHN 4:53               0.397   0.67  0.20  0.00  himself, jesu
+  MAT 27:57              0.392   0.61  0.30  0.00  himself, jesu, joseph
+  JHN 6:42               0.391   0.66  0.20  0.00  jesu, joseph
+  ACT 9:20               0.384   0.71  0.10  0.00  jesu
+  ROM 4:19               0.383   0.59  0.30  0.00  about, himself, old
+  MAT 17:22              0.376   0.63  0.20  0.00  about, jesu
+  JHN 4:2                0.376   0.64  0.20  0.00  himself, jesu
+  LUK 7:3                0.373   0.63  0.20  0.00  about, jesu
+  MRK 1:1                0.372   0.62  0.20  0.00  beginn, jesu
+  JHN 4:47               0.370   0.62  0.20  0.00  about, jesu
+  JHN 1:45               0.366   0.60  0.20  0.00  jesu, joseph
+  EPH 2:20               0.364   0.61  0.20  0.00  himself, jesu
+  JHN 21:21              0.364   0.61  0.20  0.00  about, jesu
+  JHN 13:31              0.363   0.66  0.10  0.00  jesu
+  JHN 4:6                0.363   0.61  0.20  0.00  about, jesu
+  JHN 2:24               0.359   0.60  0.20  0.00  himself, jesu
+
+=== MAT 1:16 - OT Sources ===
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: MAT 1:16
+======================================================================
+
+  Glosses: Jacob then begat - Joseph the husband of Mary out of whom was born Jesus...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Amos 7:5               0.366   0.67  0.10  0.00  jacob
+  Chronica_I 5:2         0.361   0.66  0.10  0.00  joseph
+  Genesis 46:19          0.359   0.60  0.20  0.00  jacob, joseph
+  Exodus 19:3            0.355   0.60  0.20  0.00  call, jacob
+  Genesis 35:10          0.352   0.59  0.20  0.00  call, jacob
+  Genesis 46:27          0.344   0.57  0.20  0.00  jacob, joseph
+  Psalmi 44:5            0.344   0.63  0.10  0.00  jacob
+  Genesis 42:36          0.343   0.57  0.20  0.00  jacob, joseph
+  Genesis 41:51          0.342   0.57  0.20  0.00  call, joseph
+  Genesis 32:2           0.342   0.63  0.10  0.00  jacob
+  Genesis 37:2           0.341   0.56  0.20  0.00  jacob, joseph
+  Jesaia 45:4            0.340   0.57  0.20  0.00  call, jacob
+  Jesaia 48:1            0.339   0.57  0.20  0.00  call, jacob
+  Genesis 48:18          0.338   0.62  0.10  0.00  joseph
+  Genesis 44:14          0.337   0.61  0.10  0.00  joseph
+  Genesis 48:2           0.337   0.56  0.20  0.00  jacob, joseph
+  Genesis 44:15          0.336   0.61  0.10  0.00  joseph
+  Jesaia 43:1            0.335   0.56  0.20  0.00  call, jacob
+  Genesis 32:31          0.335   0.56  0.20  0.00  call, jacob
+  Psalmi 99:6            0.334   0.61  0.10  0.00  call
+
+=== MAT 1:16 - NT Parallels ===
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: MAT 1:16
+======================================================================
+
+  Glosses: Jacob then begat - Joseph the husband of Mary out of whom was born Jesus...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  MAT 1:18               0.525   0.80  0.40  0.00  christ, jesu, joseph, mary
+  JUD 1:1                0.432   0.70  0.30  0.00  call, christ, jesu
+  JHN 6:42               0.425   0.74  0.20  0.00  jesu, joseph
+  JHN 19:25              0.423   0.73  0.20  0.00  jesu, mary
+  LUK 1:27               0.422   0.72  0.20  0.00  joseph, mary
+  ROM 1:6                0.416   0.67  0.30  0.00  call, christ, jesu
+  ACT 7:14               0.415   0.71  0.20  0.00  jacob, joseph
+  MAT 1:2                0.412   0.67  0.20  0.00  begat, jacob
+  MAT 13:55              0.410   0.64  0.30  0.00  call, joseph, mary
+  MRK 15:47              0.405   0.69  0.20  0.00  joseph, mary
+  ROM 1:1                0.402   0.64  0.30  0.00  call, christ, jesu
+  LUK 3:23               0.400   0.69  0.20  0.00  jesu, joseph
+  MAT 27:56              0.400   0.67  0.20  0.00  joseph, mary
+  MAT 1:20               0.395   0.66  0.20  0.00  joseph, mary
+  LUK 2:4                0.393   0.67  0.20  0.00  call, joseph
+  1JN 5:1                0.392   0.60  0.30  0.00  born, christ, jesu
+  HEB 11:21              0.392   0.67  0.20  0.00  jacob, joseph
+  1CO 1:1                0.390   0.61  0.30  0.00  call, christ, jesu
+  LUK 20:41              0.389   0.72  0.10  0.00  christ
+  2TI 2:8                0.388   0.67  0.20  0.00  christ, jesu
+
+=== ROM 1:3 - OT Sources ===
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: ROM 1:3
+======================================================================
+
+  Glosses: concerning the Son of Him - having come of [the] seed of David according to flesh...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Chronica_I 12:17       0.401   0.74  0.10  0.00  david
+  Leviticus 21:17        0.389   0.72  0.10  0.00  seed
+  Chronica_I 11:25       0.385   0.72  0.10  0.00  david
+  Leviticus 22:4         0.382   0.71  0.10  0.00  seed
+  Psalmi 69:1            0.380   0.71  0.10  0.00  david
+  Jeremia 22:30          0.377   0.64  0.20  0.00  david, seed
+  Samuel_I 25:22         0.374   0.70  0.10  0.00  david
+  Samuel_I 17:44         0.372   0.63  0.20  0.00  david, flesh
+  Samuel_II 22:51        0.370   0.63  0.20  0.00  david, seed
+  Jesaia 41:8            0.369   0.68  0.10  0.00  seed
+  Psalmi 22:1            0.369   0.68  0.10  0.00  david
+  Psalmi 138:1           0.368   0.68  0.10  0.00  david
+  Chronica_I 29:1        0.368   0.67  0.10  0.00  david
+  Psalmi 36:1            0.367   0.68  0.10  0.00  david
+  Samuel_I 23:16         0.366   0.67  0.10  0.00  david
+  Sacharia 13:1          0.366   0.68  0.10  0.00  david
+  Psalmi 89:21           0.365   0.68  0.10  0.00  david
+  Psalmi 18:51           0.364   0.61  0.20  0.00  david, seed
+  Samuel_II 12:16        0.363   0.67  0.10  0.00  david
+  Samuel_II 16:11        0.363   0.66  0.10  0.00  david
+
+=== MAT 1:6 - NT Parallels ===
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: MAT 1:6
+======================================================================
+
+  Glosses: Jesse then begat - David the king David then begat - Solomon...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  MAT 1:7                0.418   0.70  0.20  0.00  begat, solomon
+  ACT 13:22              0.400   0.65  0.20  0.00  david, jesse
+  MAT 1:2                0.392   0.70  0.10  0.00  begat
+  MAT 1:5                0.388   0.63  0.20  0.00  begat, jesse
+  MAT 1:10               0.369   0.66  0.10  0.00  begat
+  LUK 2:4                0.359   0.66  0.10  0.00  david
+  LUK 3:32               0.355   0.64  0.10  0.00  jesse
+  LUK 3:31               0.352   0.64  0.10  0.00  david
+  LUK 1:27               0.351   0.65  0.10  0.00  david
+  ROM 15:12              0.350   0.63  0.10  0.00  jesse
+  MAT 1:11               0.346   0.61  0.10  0.00  begat
+  LUK 20:44              0.344   0.63  0.10  0.00  david
+  REV 5:5                0.343   0.63  0.10  0.00  david
+  MAT 1:9                0.342   0.61  0.10  0.00  begat
+  LUK 3:30               0.341   0.68  0.00  0.00  
+  ROM 1:3                0.340   0.63  0.10  0.00  david
+  MRK 12:36              0.338   0.62  0.10  0.00  david
+  MAT 1:12               0.338   0.60  0.10  0.00  begat
+  MAT 22:45              0.333   0.61  0.10  0.00  david
+  MAT 1:15               0.333   0.59  0.10  0.00  begat
+
+=== LUK 3:31 - OT Sources ===
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: LUK 3:31
+======================================================================
+
+  Glosses: - of Melea - of Menna - of Mattatha - of Nathan - of David...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Samuel_II 7:17         0.370   0.62  0.20  0.00  david, nathan
+  Chronica_I 17:15       0.370   0.62  0.20  0.00  david, nathan
+  Chronica_I 29:29       0.362   0.60  0.20  0.00  david, nathan
+  Reges_I 1:38           0.350   0.58  0.20  0.00  david, nathan
+  Reges_I 1:8            0.334   0.55  0.20  0.00  david, nathan
+  Esra 10:39             0.333   0.60  0.10  0.00  nathan
+  Chronica_I 2:15        0.323   0.59  0.10  0.00  david
+  Esra 8:2               0.322   0.59  0.10  0.00  david
+  Chronica_I 11:36       0.317   0.63  0.00  0.00  
+  Chronica_I 7:37        0.316   0.63  0.00  0.00  
+  Chronica_I 15:11       0.315   0.58  0.10  0.00  david
+  Samuel_II 23:27        0.311   0.62  0.00  0.00  
+  Numeri 21:19           0.310   0.62  0.00  0.00  
+  Chronica_I 26:5        0.310   0.62  0.00  0.00  
+  Samuel_II 17:27        0.309   0.56  0.10  0.00  david
+  Chronica_I 17:2        0.309   0.50  0.20  0.00  david, nathan
+  Esra 8:4               0.308   0.62  0.00  0.00  
+  Samuel_I 27:2          0.307   0.56  0.10  0.00  david
+  Samuel_II 5:15         0.307   0.61  0.00  0.00  
+  Samuel_II 23:23        0.307   0.56  0.10  0.00  david
+
+=== LUK 3:38 - OT Sources ===
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: LUK 3:38
+======================================================================
+
+  Glosses: - of Enosh - of Seth - of Adam - of God...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Chronica_I 1:1         0.353   0.56  0.20  0.00  adam, enosh
+  Psalmi 76:7            0.336   0.67  0.00  0.00  
+  Exodus 7:8             0.335   0.66  0.00  0.00  
+  Psalmi 89:7            0.332   0.66  0.00  0.00  
+  Chronica_I 11:36       0.331   0.66  0.00  0.00  
+  Chronica_I 29:29       0.330   0.66  0.00  0.00  
+  Josua 19:36            0.330   0.66  0.00  0.00  
+  Chronica_I 24:16       0.327   0.65  0.00  0.00  
+  Chronica_I 12:17       0.325   0.65  0.00  0.00  
+  Exodus 6:3             0.324   0.64  0.00  0.00  
+  Jesaia 7:17            0.323   0.64  0.00  0.00  
+  Genesis 4:25           0.323   0.57  0.10  0.00  adam
+  Genesis 44:5           0.322   0.64  0.00  0.00  
+  Samuel_II 1:17         0.322   0.64  0.00  0.00  
+  Psalmi 18:1            0.320   0.64  0.00  0.00  
+  Genesis 31:53          0.320   0.64  0.00  0.00  
+  Josua 18:26            0.320   0.64  0.00  0.00  
+  Deuteronomium 18:13    0.320   0.63  0.00  0.00  
+  Leviticus 2:3          0.319   0.63  0.00  0.00  
+  Leviticus 2:10         0.319   0.63  0.00  0.00  
