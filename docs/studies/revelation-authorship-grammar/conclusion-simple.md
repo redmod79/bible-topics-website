@@ -66,9 +66,13 @@ An author who produces correct grammar in some places but breaks rules in others
 
 ### Why the Choices?
 
-Two factors explain the pattern:
+Three factors explain the pattern:
 
-**Genre.** Writing an apocalyptic vision is fundamentally different from writing a biography or a letter. A modern author who writes polished academic papers might write very differently in a prophetic poem. The Gospel is narrative theology; Revelation is visionary prophecy. Different literary forms naturally produce different registers of language.
+**Agreement by meaning, not form.** The most important discovery in this study is that many of the supposed "errors" are actually a recognized Greek construction called *constructio ad sensum* -- agreement according to sense. In Revelation 5:6, the word for "Lamb" (*arnion*) is grammatically neuter (like "it"), but the author uses a masculine participle ("having") because the Lamb is a person -- Christ. He's not confused about grammar; he's thinking about *who* the Lamb is, not *what gender the word is*. In the same verse, two other participles ("standing," "slain") correctly use the neuter form. The author switches between grammatically correct and sense-based agreement in a single sentence, proving he knows the rules and is choosing when to follow them.
+
+This same pattern appears in 1 John 5:7-8, where three neuter nouns (Spirit, water, blood) are described with masculine forms because they are being treated as personal witnesses. The same habit shows up in the Gospel, where masculine pronouns are used for the neuter word "Spirit" because the Spirit is a person. All three bodies of John's writing override grammatical gender for the same reason -- personhood. This actually *supports* common authorship rather than undermining it.
+
+**Genre.** Writing an apocalyptic vision is fundamentally different from writing a biography or a letter. A modern author who writes polished academic papers might write very differently in a prophetic poem. The Gospel is narrative theology; Revelation is visionary prophecy. Different literary forms naturally produce different registers of language. Revelation also has far more symbolic nouns for persons (Lamb, beast, horns, Spirits) than the Gospel does, so the agreement-by-meaning pattern shows up more often.
 
 **Old Testament influence.** Revelation is the most Old Testament-saturated book in the New Testament, containing over 500 allusions to Hebrew Scripture. When the author writes the divine title "he who is and who was and who is to come" (Revelation 1:4), he deliberately keeps it in a grammatically "wrong" form -- because inflecting it into correct Greek would break the connection to God's name in Exodus 3:14 ("I AM WHO I AM"), which is grammatically unchangeable in Hebrew. The "error" is actually reverence expressed through grammar.
 

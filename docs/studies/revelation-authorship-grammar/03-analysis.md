@@ -375,6 +375,37 @@ Supported by: JHN 19:34-35 (blood and water flow from Christ's side; the Spirit-
 
 Supported by: JHN 16:33 ("I have overcome [nenikeka, perfect] the world" -- Christ's foundational victory), 1JN 2:13 ("you have overcome [nenikekate, perfect] the wicked one"), 1JN 4:4 ("you have overcome [nenikekate] them"), 1JN 5:4-5 ("this is the victory that overcometh [nikesasa, aorist] the world, even our faith"), REV 2:7,11,17,26; 3:5,12,21 ("to him that overcometh [nikonti, present participle]" -- seven church promises), REV 12:11 ("they overcame [enikesan, aorist] him by the blood of the Lamb"), REV 21:7 ("he that overcometh shall inherit all things").
 
+### Pattern 6: Constructio ad Sensum -- Shared Gender Override for Personal Referents
+**Description:** Both Revelation and 1 John exhibit a distinctive grammatical pattern: when a neuter (or feminine) noun refers to a person or personal agent, the author overrides grammatical gender and uses masculine modifiers, participles, pronouns, or demonstratives. This is constructio ad sensum -- agreement according to sense rather than grammatical form. The pattern appears across both Revelation and the Epistles, and the Cambridge Bible commentary explicitly connects it to the same habit in the Gospel.
+
+**BDF section 134 (p.109)** defines constructio ad sensum as "very widespread in Greek from early times" and identifies the sub-category directly relevant here: "masculine participle referring to neuter noun designating a person" (citing Mk 9:20, 13:14). BDF section 136 catalogs Revelation's instances under category (3) "masculine substituted for feminine or neuter," explicitly noting that Rev 13:14 uses masculine "because it is a reference to the Antichrist." Smyth section 926a states: "real, not grammatical, gender often determines agreement." Mussies (1971) frames masculine as the "unmarked personal" gender in Greek, explaining why neuter nouns referring to persons naturally attract masculine modifiers.
+
+**Confirmed instances in Revelation:**
+
+| Verse | Neuter/Feminine Antecedent | Masculine Override | Referent (Sense) |
+|-------|---------------------------|-------------------|------------------|
+| **REV 5:6** | arnion (Acc Sg **Neut**) | echon (Nom Sg **Masc** ptcp) | Christ (person) |
+| **REV 5:6** | Pneumata (Nom Pl **Neut**) | apestalmenoi (Nom Pl **Masc** ptcp) | The seven Spirits (personal agents) |
+| **REV 4:1** | phone (Nom Sg **Fem**) | legon (Nom Sg **Masc** ptcp) | The speaker behind the voice (person) |
+| **REV 11:4** | elaiai, lychniai (Nom Pl **Fem**) | houtoi, hestotes (Nom Pl **Masc**) | The two witnesses (male prophets) |
+| **REV 13:14** | therion (Nom Sg **Neut**) | hos, legon (**Masc** rel. pron. + ptcp) | The Antichrist (person) |
+| **REV 17:16** | kerata + therion (**Neut**) | houtoi (Nom Pl **Masc** demonstrative) | Ten kings (persons) |
+| **REV 14:14** | kathemenon homoion huion (**Acc**) | echon (Nom Sg **Masc** ptcp) | Son of Man (perceived agent) |
+
+**The critical cross-corpus parallel in 1 John:**
+
+| Verse | Neuter Antecedent | Masculine Override | Referent (Sense) |
+|-------|-------------------|-------------------|------------------|
+| **1JN 5:7-8** | Pneuma, hydor, haima (all **Neut**) | hoi treis martyrountes (Nom Pl **Masc**) | Personified witnesses |
+
+Wallace (BBR 13.1, 2003) identifies 1 John 5:7-8 as constructio ad sensum: the masculine forms follow because the three neuter nouns are being personified as witnesses (martyres, masculine). Culy concurs: "the writer chooses a masculine form... perhaps due to the fact that the three are personified as 'witnesses.'" Decker (CBTS) notes that this pattern is "permissible or even expected... particularly in John's writings."
+
+**The Gospel parallel:** The Cambridge Bible commentary on Rev 5:6 makes the cross-corpus connection explicit: "in this Book St John boldly uses masculines in reference to the Lamb (as in his Gospel he once or twice does in reference to the Spirit)." In JHN 14:26, 15:26, 16:7, and 16:13-14, masculine pronouns and demonstratives are used in contexts where the neuter pneuma (Spirit) is the referent -- the same sense-based gender override.
+
+**Why this pattern supports common authorship:** The pattern is not merely that grammatical gender is "wrong" -- it is that the same *kind* of override occurs in the same *direction* (neuter -> masculine for personal referents) across all three bodies of Johannine literature. An author who treats the Spirit as grammatically masculine in the Gospel (because the Spirit is a person), who uses masculine forms for three neuter nouns in 1 John (because they are personified witnesses), and who uses masculine forms for the Lamb, the beast, the Spirits, and the voice in Revelation (because they represent persons) -- this is a single authorial habit deployed across different works. The difference is one of *frequency*, not *kind*: Revelation has more neuter nouns representing persons (arnion, therion, pneumata, kerata) because apocalyptic literature uses more symbolic imagery, so the constructio ad sensum occurs more often.
+
+**What makes Rev 5:6 particularly telling:** In the same verse, John uses *both* grammatically correct neuter agreement (hestekos, esphagmenon -- "standing," "slain") *and* constructio ad sensum masculine (echon -- "having"). The neuter participles describe the Lamb's *state* (standing, slain); the masculine participle describes the Lamb's *agency* (having seven horns and eyes). The shift is not random error -- it tracks the shift from description to personhood.
+
 ---
 
 ## Word Study Integration
@@ -410,8 +441,12 @@ The Old Testament provides a crucial explanatory framework for Revelation's gram
 ### 1. REV 1:4-6 -- The Concentrated Solecism Cluster
 This passage is the strongest grammatical evidence against common authorship. Two clear solecisms (apo + nominative, nominative appositional titles after genitive) in three verses, with no parallel in JHN or 1JN, directly supports BDF's statement that Revelation's grammar contrasts with "the other writings ascribed to John." The difficulty is real and cannot be dismissed. However, two factors complicate a simple "different author" conclusion: (a) the doxology in v.5b-6 shows correct case agreement, proving the author's grammatical competence; (b) the divine title "ho on" may be deliberately indeclinable as a Semitic theological construction.
 
-### 2. REV 5:6 -- Double Disagreement
-The double disagreement in echon (Nom Sg M modifying Acc Sg N Arnion) is the most severe grammatical irregularity in the corpus. Both case AND gender disagree. No parallel exists in JHN or 1JN. However, 1JN 5:7-8 shows a comparable gender irregularity (hoi treis, NPM, and martyrountes, NPM, for three neuter nouns), suggesting that even the "grammatically smooth" Epistles allow gender shifts when personification is involved. If the Epistle author can shift gender for theological reasons, so can the Revelation author -- to a greater degree, in a genre where personification and symbolic imagery dominate.
+### 2. REV 5:6 -- Double Disagreement (Resolved: Constructio ad Sensum)
+The double disagreement in echon (Nom Sg M modifying Acc Sg N Arnion) was initially catalogued as the most severe grammatical irregularity in the corpus. Both case AND gender disagree. However, further research identifies this as **constructio ad sensum** -- agreement according to sense rather than grammatical form. BDF section 134 defines this as "very widespread in Greek from early times," and BDF section 136 explicitly catalogs Revelation's masculine-for-neuter instances under category (3), noting that Rev 13:14 uses masculine "because it is a reference to the Antichrist." The same principle applies here: arnion is grammatically neuter but refers to Christ (a person), so the masculine participle follows the sense.
+
+Crucially, Rev 5:6 contains *both* correct neuter agreement (hestekos, esphagmenon) *and* masculine override (echon, apestalmenoi) in the same verse. The neuter forms describe the Lamb's state (standing, slain); the masculine form describes the Lamb's agency (having seven horns and eyes). This selectivity proves the author is not randomly violating agreement rules -- he is shifting to masculine when personhood and agency are in view.
+
+The cross-corpus parallel in 1JN 5:7-8 (masculine hoi treis martyrountes for three neuter nouns) demonstrates the same constructio ad sensum in the Epistles. Wallace (BBR 13.1, 2003) identifies this as sense-based agreement. The Cambridge Bible commentary on Rev 5:6 explicitly connects the pattern: "in this Book St John boldly uses masculines in reference to the Lamb (as in his Gospel he once or twice does in reference to the Spirit)." This transforms the "double disagreement" from evidence *against* common authorship into evidence *for* it -- the same author uses the same grammatical strategy across different works.
 
 ### 3. The Absence of parakletos from Revelation
 parakletos is 100% Johannine (5/5 NT uses) but completely absent from Revelation. If the same author wrote both works, why would he abandon his most distinctive theological term? The genre explanation is plausible (apocalyptic vision does not call for a discourse term about the Spirit's comforting/advocating role), and the Spirit functions actively in Revelation ("what the Spirit saith to the churches," REV 2:7 etc.; "the Spirit and the bride say, Come," REV 22:17). The Spirit's role in Revelation (speaking to churches, inspiring prophecy) could be understood as the Paraclete function expressed in prophetic-apocalyptic register.
@@ -436,9 +471,10 @@ The evidence divides into two clear categories with different implications:
 **Surface grammar evidence appears to favor different authorship, but with significant qualifications.** Six documented solecisms in Revelation (REV 1:4, 1:5, 2:13, 2:20, 5:6, 5:6) versus zero in Gospel/Epistles is a real difference. BDF explicitly notes this contrast. However, four qualifications weaken this evidence:
 
 1. **The author demonstrates grammatical competence within Revelation itself** (correct dative constructions in REV 1:5b-6, correct participle agreement in REV 1:13, REV 2:7, REV 12:11).
-2. **Some "solecisms" may be deliberate theological constructions** (the indeclinable divine name in REV 1:4, the personifying gender shifts in REV 5:6).
-3. **Semitic interference explains much of the pattern** -- an author steeped in Hebrew prophetic literature, writing in apocalyptic register, would naturally import Semitic constructions.
-4. **The literary sophistication of Revelation** (documented in the revelation-structure study) is inconsistent with grammatical incompetence.
+2. **Many gender "solecisms" are constructio ad sensum** -- agreement according to sense, a recognized Greek construction (BDF section 134; Smyth section 926a). Seven instances in Revelation (REV 4:1, 5:6 x2, 11:4, 13:14, 14:14, 17:16) involve masculine forms for neuter/feminine nouns that refer to persons. The same pattern appears in 1JN 5:7-8, connecting the Epistles and Revelation through a shared authorial habit. The Cambridge Bible commentary explicitly links the pattern across the Johannine corpus.
+3. **The indeclinable divine name in REV 1:4** may be a deliberate Semitic theological construction echoing Exodus 3:14.
+4. **Semitic interference explains nominative appositional patterns** -- an author steeped in Hebrew prophetic literature, writing in apocalyptic register, would naturally import Semitic constructions.
+5. **The literary sophistication of Revelation** (documented in the revelation-structure study) is inconsistent with grammatical incompetence.
 
 **The weight of evidence** points toward common authorship with genre-driven grammatical variation. The vocabulary evidence is quantifiable, verifiable, and overwhelming. The grammatical differences are real but explicable. A single author writing in two different genres (theological narrative/epistle vs. prophetic-apocalyptic vision), deeply immersed in OT Hebrew prophetic language, and possibly using different scribal assistance (amanuensis theory), could produce exactly the pattern we observe.
 
