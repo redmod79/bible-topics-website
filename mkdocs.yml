@@ -78,6 +78,22 @@ nav:
 
   - Studies:
 
+    - "Did the Apostle John Write Revelation?":
+      - studies/revelation-authorship-grammar/conclusion-simple.md
+      - Conclusion: studies/revelation-authorship-grammar/CONCLUSION.md
+      - Analysis: studies/revelation-authorship-grammar/03-analysis.md
+      - Verses: studies/revelation-authorship-grammar/02-verses.md
+      - Word Studies: studies/revelation-authorship-grammar/04-word-studies.md
+      - Topics: studies/revelation-authorship-grammar/01-topics.md
+      - Research Scope: studies/revelation-authorship-grammar/PROMPT.md
+      - Raw Data:
+        - "Nave's Topics": studies/revelation-authorship-grammar/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/revelation-authorship-grammar/raw-data/parallels.md
+        - "Greek Parsing": studies/revelation-authorship-grammar/raw-data/greek-parsing.md
+        - "Strong's Lookups": studies/revelation-authorship-grammar/raw-data/strongs-lookups.md
+        - "Grammar References": studies/revelation-authorship-grammar/raw-data/grammar-references.md
+        - "Concept Context": studies/revelation-authorship-grammar/raw-data/concept-context.md
+
     - "The Two Genealogies of Jesus":
       - studies/genealogies-of-jesus/conclusion-simple.md
       - Conclusion: studies/genealogies-of-jesus/CONCLUSION.md

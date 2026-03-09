@@ -27,6 +27,7 @@ Every study follows the same core principles:
 
 | Study | Question |
 |-------|----------|
+| [Did the Apostle John Write Revelation?](studies/revelation-authorship-grammar/conclusion-simple.md) | A Greek grammar and vocabulary analysis comparing Revelation against the Gospel of John and 1-3 John to evaluate common authorship. |
 | [The Two Genealogies of Jesus](studies/genealogies-of-jesus/conclusion-simple.md) | Why does Matthew trace Jesus' lineage through Solomon while Luke traces it through Nathan? Are the two genealogies contradictory or complementary? |
 
 ---
