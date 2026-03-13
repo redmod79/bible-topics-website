@@ -107,3 +107,17 @@ nav:
         - "Cross-Testament Parallels": studies/genealogies-of-jesus/raw-data/cross-testament-parallels.txt
         - "Greek Parsing": studies/genealogies-of-jesus/raw-data/greek-parsing.txt
         - "Strong's Lookups": studies/genealogies-of-jesus/raw-data/strongs-lookups.txt
+
+    - "Salvation Before Jesus: Same Means or Different?":
+      - studies/salvation-before-jesus/conclusion-simple.md
+      - Conclusion: studies/salvation-before-jesus/CONCLUSION.md
+      - Analysis: studies/salvation-before-jesus/03-analysis.md
+      - Verses: studies/salvation-before-jesus/02-verses.md
+      - Word Studies: studies/salvation-before-jesus/04-word-studies.md
+      - Topics: studies/salvation-before-jesus/01-topics.md
+      - Research Scope: studies/salvation-before-jesus/PROMPT.md
+      - Raw Data:
+        - "Nave's Topics": studies/salvation-before-jesus/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/salvation-before-jesus/raw-data/parallels.md
+        - "Parsing Results": studies/salvation-before-jesus/raw-data/parsing-results.md
+        - "Strong's Lookups": studies/salvation-before-jesus/raw-data/strongs-lookups.md
