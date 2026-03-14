@@ -4,6 +4,9 @@
 
 ---
 
+!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
+    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
+
 ## About This Collection
 
 This site hosts standalone Bible studies that don't belong to a broader series. Each study is a self-contained investigation of a biblical topic, produced by the same three-agent research pipeline and tool-driven methodology used across all our studies.
@@ -47,18 +50,3 @@ Every study includes multiple layers of research, all accessible through the nav
 | **Topics** | Nave's Topical Bible entries and key research findings |
 | **Research Scope** | The original research question and scope that guided the investigation |
 | **Raw Data** | Nave's topic output, Strong's lookups, Greek/Hebrew parsing, cross-testament parallels |
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Historicist Proof**](https://redmod79.github.io/hist-website/) | A 19-study investigation examining whether Daniel and Revelation describe continuous history from the prophet's time to the second coming. 496 evidence items classified. |
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument about the final fate of the wicked. 632 evidence items classified. |
-| [**Does Paul Contradict Jesus?**](https://redmod79.github.io/pvj-website/) | A 22-study investigation examining every major alleged contradiction between Paul and Jesus -- faith vs works, the law, food laws, circumcision, and more. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report examining the angel view vs. the godly human view using explicit biblical evidence. |
