@@ -3,10 +3,6 @@
 *Independent Bible studies on various topics, each produced by tool-driven research.*
 
 ---
-
-!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
-    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
-
 ## About This Collection
 
 This site hosts standalone Bible studies that don't belong to a broader series. Each study is a self-contained investigation of a biblical topic, produced by the same three-agent research pipeline and tool-driven methodology used across all our studies.

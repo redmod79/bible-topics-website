@@ -3,6 +3,7 @@ site_description: A collection of independent Bible studies on various topics, e
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: indigo
