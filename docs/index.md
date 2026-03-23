@@ -29,6 +29,7 @@ Every study follows the same core principles:
 | [Did the Apostle John Write Revelation?](studies/revelation-authorship-grammar/conclusion-simple.md) | A Greek grammar and vocabulary analysis comparing Revelation against the Gospel of John and 1-3 John to evaluate common authorship. |
 | [The Two Genealogies of Jesus](studies/genealogies-of-jesus/conclusion-simple.md) | Why does Matthew trace Jesus' lineage through Solomon while Luke traces it through Nathan? Are the two genealogies contradictory or complementary? |
 | [Salvation Before Jesus: Same Means or Different?](studies/salvation-before-jesus/conclusion-simple.md) | How were God's people saved before Jesus came? Were they saved by a different means — like keeping the Law — or by the same grace-through-faith mechanism as after the cross? |
+| [Was "This Generation Shall Not Pass" a Failed Prophecy?](studies/this-generation-failed-prophecy/conclusion-simple.md) | Jesus said "this generation shall not pass till all these things be fulfilled." Since he didn't visibly return in the first century, was this a failed prophecy? |
 
 ---
 
