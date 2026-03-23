@@ -109,6 +109,23 @@ nav:
         - "Greek Parsing": studies/genealogies-of-jesus/raw-data/greek-parsing.txt
         - "Strong's Lookups": studies/genealogies-of-jesus/raw-data/strongs-lookups.txt
 
+    - "Was 'This Generation Shall Not Pass' a Failed Prophecy?":
+      - studies/this-generation-failed-prophecy/conclusion-simple.md
+      - Conclusion: studies/this-generation-failed-prophecy/CONCLUSION.md
+      - Analysis: studies/this-generation-failed-prophecy/03-analysis.md
+      - Verses: studies/this-generation-failed-prophecy/02-verses.md
+      - Word Studies: studies/this-generation-failed-prophecy/04-word-studies.md
+      - Topics: studies/this-generation-failed-prophecy/01-topics.md
+      - Research Scope: studies/this-generation-failed-prophecy/PROMPT.md
+      - Raw Data:
+        - "Nave's Topics": studies/this-generation-failed-prophecy/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/this-generation-failed-prophecy/raw-data/parallels.md
+        - "Greek Parsing": studies/this-generation-failed-prophecy/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/this-generation-failed-prophecy/raw-data/hebrew-parsing.md
+        - "Strong's Lookups": studies/this-generation-failed-prophecy/raw-data/strongs-lookups.md
+        - "Concept Context": studies/this-generation-failed-prophecy/raw-data/concept-context.md
+        - "Existing Studies": studies/this-generation-failed-prophecy/raw-data/existing-studies.md
+
     - "Salvation Before Jesus: Same Means or Different?":
       - studies/salvation-before-jesus/conclusion-simple.md
       - Conclusion: studies/salvation-before-jesus/CONCLUSION.md
