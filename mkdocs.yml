@@ -139,3 +139,18 @@ nav:
         - "Cross-Testament Parallels": studies/salvation-before-jesus/raw-data/parallels.md
         - "Parsing Results": studies/salvation-before-jesus/raw-data/parsing-results.md
         - "Strong's Lookups": studies/salvation-before-jesus/raw-data/strongs-lookups.md
+
+    - "Did Jesus Declare All Foods Clean in Mark 7?":
+      - studies/mark-7-all-foods-clean/conclusion-simple.md
+      - Conclusion: studies/mark-7-all-foods-clean/CONCLUSION.md
+      - Analysis: studies/mark-7-all-foods-clean/03-analysis.md
+      - Verses: studies/mark-7-all-foods-clean/02-verses.md
+      - Word Studies: studies/mark-7-all-foods-clean/04-word-studies.md
+      - Topics: studies/mark-7-all-foods-clean/01-topics.md
+      - Research Scope: studies/mark-7-all-foods-clean/PROMPT.md
+      - Raw Data:
+        - "Nave's Topics": studies/mark-7-all-foods-clean/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/mark-7-all-foods-clean/raw-data/parallels.md
+        - "Greek Parsing": studies/mark-7-all-foods-clean/raw-data/greek-parsing.md
+        - "Strong's Lookups": studies/mark-7-all-foods-clean/raw-data/strongs-lookups.md
+        - "Text Comparison": studies/mark-7-all-foods-clean/raw-data/text-comparison.md
