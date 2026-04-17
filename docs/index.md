@@ -32,6 +32,7 @@ Every study follows the same core principles:
 | [Was "This Generation Shall Not Pass" a Failed Prophecy?](studies/this-generation-failed-prophecy/conclusion-simple.md) | Jesus said "this generation shall not pass till all these things be fulfilled." Since he didn't visibly return in the first century, was this a failed prophecy? |
 | [Did Jesus Declare All Foods Clean in Mark 7?](studies/mark-7-all-foods-clean/conclusion-simple.md) | Some Bible versions say Jesus "declared all foods clean" in Mark 7:19, others don't. What does the Greek text actually say, what is the context of the passage, and what does it mean? |
 | [Did Jephthah Sacrifice His Daughter?](studies/jephthah-daughter-sacrifice/conclusion-simple.md) | Judges 11 tells of Jephthah's rash vow and his only daughter coming out to meet him. Did he literally sacrifice her as a burnt offering, or did he dedicate her to a lifetime of virginity at the sanctuary? |
+| [Who Is the Man of Sin in 2 Thessalonians 2?](studies/man-of-sin-2thess-2/conclusion-simple.md) | Paul warns of a "man of sin, son of perdition" who exalts himself in the temple of God and is destroyed by Christ's coming. Is this a single future individual, a past Roman emperor, or an institutional system rising from within the church? |
 
 ---
 

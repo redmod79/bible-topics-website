@@ -170,3 +170,29 @@ nav:
         - "Greek Parsing (Hebrews 11)": studies/jephthah-daughter-sacrifice/raw-data/heb-11-greek-parse.md
         - "Strong's Lookups": studies/jephthah-daughter-sacrifice/raw-data/strongs-lookups.md
         - "Concept Context": studies/jephthah-daughter-sacrifice/raw-data/concept-context.md
+
+    - "Who Is the Man of Sin in 2 Thessalonians 2?":
+      - studies/man-of-sin-2thess-2/conclusion-simple.md
+      - Conclusion: studies/man-of-sin-2thess-2/CONCLUSION.md
+      - Analysis: studies/man-of-sin-2thess-2/03-analysis.md
+      - Verses: studies/man-of-sin-2thess-2/02-verses.md
+      - Word Studies: studies/man-of-sin-2thess-2/04-word-studies.md
+      - Topics: studies/man-of-sin-2thess-2/01-topics.md
+      - Research Scope: studies/man-of-sin-2thess-2/PROMPT.md
+      - Raw Data:
+        - "Nave's Entries": studies/man-of-sin-2thess-2/raw-data/naves-entries.md
+        - "Cross-Testament Parallels": studies/man-of-sin-2thess-2/raw-data/parallels.md
+        - "Greek Parsing (2 Thess 2)": studies/man-of-sin-2thess-2/raw-data/2thess-2-greek-parse.md
+        - "Johannine Antichrist Parses": studies/man-of-sin-2thess-2/raw-data/johannine-antichrist-parses.md
+        - "Pauline Naos Concordance": studies/man-of-sin-2thess-2/raw-data/pauline-naos-concordance.md
+        - "Concept Context": studies/man-of-sin-2thess-2/raw-data/concept-context.md
+        - "External Corpus Verification": studies/man-of-sin-2thess-2/raw-data/external-corpus-verification.md
+        - "Text Comparisons": studies/man-of-sin-2thess-2/raw-data/text-comparisons.md
+        - "Text — 2 Thessalonians": studies/man-of-sin-2thess-2/raw-data/text-2thess.md
+        - "Text — Daniel": studies/man-of-sin-2thess-2/raw-data/text-daniel.md
+        - "Text — Isaiah/Ezekiel": studies/man-of-sin-2thess-2/raw-data/text-isa-ezek.md
+        - "Text — Johannine": studies/man-of-sin-2thess-2/raw-data/text-johannine.md
+        - "Text — Latter Times": studies/man-of-sin-2thess-2/raw-data/text-latter-times.md
+        - "Text — Olivet": studies/man-of-sin-2thess-2/raw-data/text-olivet.md
+        - "Text — Revelation": studies/man-of-sin-2thess-2/raw-data/text-revelation.md
+        - "Text — Temple Corpus": studies/man-of-sin-2thess-2/raw-data/text-temple-corpus.md
