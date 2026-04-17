@@ -154,3 +154,19 @@ nav:
         - "Greek Parsing": studies/mark-7-all-foods-clean/raw-data/greek-parsing.md
         - "Strong's Lookups": studies/mark-7-all-foods-clean/raw-data/strongs-lookups.md
         - "Text Comparison": studies/mark-7-all-foods-clean/raw-data/text-comparison.md
+
+    - "Did Jephthah Sacrifice His Daughter?":
+      - studies/jephthah-daughter-sacrifice/conclusion-simple.md
+      - Conclusion: studies/jephthah-daughter-sacrifice/CONCLUSION.md
+      - Analysis: studies/jephthah-daughter-sacrifice/03-analysis.md
+      - Verses: studies/jephthah-daughter-sacrifice/02-verses.md
+      - Word Studies: studies/jephthah-daughter-sacrifice/04-word-studies.md
+      - Topics: studies/jephthah-daughter-sacrifice/01-topics.md
+      - Research Scope: studies/jephthah-daughter-sacrifice/PROMPT.md
+      - Raw Data:
+        - "Nave's Entries": studies/jephthah-daughter-sacrifice/raw-data/naves-entries.md
+        - "Cross-Testament Parallels": studies/jephthah-daughter-sacrifice/raw-data/parallels.md
+        - "Hebrew Parsing (Judges 11)": studies/jephthah-daughter-sacrifice/raw-data/jdg-11-hebrew-parse.md
+        - "Greek Parsing (Hebrews 11)": studies/jephthah-daughter-sacrifice/raw-data/heb-11-greek-parse.md
+        - "Strong's Lookups": studies/jephthah-daughter-sacrifice/raw-data/strongs-lookups.md
+        - "Concept Context": studies/jephthah-daughter-sacrifice/raw-data/concept-context.md
