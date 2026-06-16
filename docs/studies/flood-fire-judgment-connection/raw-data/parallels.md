@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- 2 Pet 3:6 → Gen 7:21-23 (ot, vocabulary + thematic — 'the world that then was perished' references the flood's universal destruction in Genesis)
+- 2 Pet 3:7 → 2 Pet 2:9 (nt, vocabulary — tereo (reserve) links both passages; reserved for fire (3:7) parallels reserved for judgment (2:9))
+- 2 Pet 3:13 → Isa 65:17 (ot, verbal quotation — kainous ouranous kai gen kainen echoes Isaiah's new heavens and new earth promise)
+- 2 Pet 3:13 → Rev 21:1 (nt, vocabulary + thematic — both use kainos + ouranos + ge for new heavens and new earth)
+- Luke 17:27 → Gen 7:21-23 (ot, thematic — flood 'destroyed them all' references Genesis flood narrative)
+- Luke 17:29 → Gen 19:24-25 (ot, verbal quotation — 'rained fire and brimstone from heaven' directly references Gen 19:24)
+- Rev 21:1 → Isa 65:17 (ot, verbal quotation — 'new heaven and new earth' from Isaiah's promise)
+- Rev 21:1 → 2 Pet 3:13 (nt, vocabulary — both use kainos + heaven + earth; both follow fire/dissolution context)
+- Jude 1:7 → Gen 19:24-25 (ot, thematic + typological — Jude designates Sodom's fire as deigma (example) of eternal fire)
+- Jude 1:7 → 2 Pet 2:6 (nt, vocabulary + structural — both designate Sodom as typological example (deigma/hupodeigma) of future fire judgment)
+- Isa 54:9 → Gen 9:11 (ot, verbal quotation — 'waters of Noah' explicitly references the Noahic flood covenant)
+- 2 Pet 2:6 → Gen 19:24-25 (ot, thematic — Peter references turning Sodom to ashes as an hupodeigma (example))
+- Rev 20:9 → Gen 19:24 (ot, structural — fire from God out of heaven (Rev 20:9) echoes fire from the LORD out of heaven (Gen 19:24))
+- 2 Pet 3:5 → Gen 1:1-2 (ot, thematic — 'by the word of God the heavens were of old, and the earth standing out of the water' references Gen 1 creation)
+- Gen 8:1 → Gen 1:2 (ot, vocabulary + structural — ruach + elohim + al (upon) in both; wind/spirit over waters/earth parallel)
