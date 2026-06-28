@@ -196,3 +196,17 @@ nav:
         - "Text — Olivet": studies/man-of-sin-2thess-2/raw-data/text-olivet.md
         - "Text — Revelation": studies/man-of-sin-2thess-2/raw-data/text-revelation.md
         - "Text — Temple Corpus": studies/man-of-sin-2thess-2/raw-data/text-temple-corpus.md
+
+    - "Does the Bible Teach 'Believer's Authority'?":
+      - studies/believers-authority-biblical-or-not/conclusion-simple.md
+      - Conclusion: studies/believers-authority-biblical-or-not/CONCLUSION.md
+      - Analysis: studies/believers-authority-biblical-or-not/03-analysis.md
+      - Verses: studies/believers-authority-biblical-or-not/02-verses.md
+      - Word Studies: studies/believers-authority-biblical-or-not/04-word-studies.md
+      - Topics: studies/believers-authority-biblical-or-not/01-topics.md
+      - Research Scope: studies/believers-authority-biblical-or-not/PROMPT.md
+      - Raw Data:
+        - "Nave's Topics": studies/believers-authority-biblical-or-not/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/believers-authority-biblical-or-not/raw-data/parallels.md
+        - "Greek Parsing": studies/believers-authority-biblical-or-not/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/believers-authority-biblical-or-not/raw-data/hebrew-parsing.md
