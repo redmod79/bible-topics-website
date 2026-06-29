@@ -173,4 +173,62 @@ The power is always God's. The glory is always God's. The authority is always Ch
 
 ---
 
+## Appendix: Where Did "Believer's Authority" Come From?
+
+The modern "believer's authority" doctrine did not come from Scripture. Its history can be traced with scholarly precision.
+
+### The Transmission Chain
+
+**New Thought metaphysics (1830s-1890s)** → Phineas Quimby's "mental science" → Mary Baker Eddy's Christian Science → Ralph Waldo Trine's *In Tune with the Infinite* → **the intellectual environment at Emerson College of Oratory in Boston**
+
+↓
+
+**E.W. Kenyon (1867-1948)** — Baptist pastor who attended Emerson College in 1892 for one year, immersed in the New Thought environment. He admitted to having "freely used ideas from Mary Baker-Eddy" (per colleague John Kennington). Key innovations with NO biblical precedent:
+
+- "Revelation knowledge vs. sense knowledge" — mirrors Christian Science's spiritual/material dualism
+- "Power of attorney" in the name of Jesus — prayer as a "legal basis" where believers have "the same standing with the Father that Christ had"
+- "What I confess, I possess" — New Thought's "affirmation" technique relabeled as "confession"
+- "Spiritual death of Jesus" — Jesus died spiritually, took on Satan's nature, went to hell, was "born again"
+- Believers as "little gods" in "God's class"
+
+↓
+
+**Kenneth Hagin (1917-2003)** — Plagiarized Kenyon "both repeatedly and extensively" (D.R. McConnell, *A Different Gospel*, 1988). Ruth Kenyon (Kenyon's daughter) confirmed: "pure plagiarism." Hagin ALSO plagiarized John MacMillan's orthodox 1932 "Authority of the Believer" — blending MacMillan's biblical vocabulary with Kenyon's metaphysical content. Founded RHEMA Bible Training College (1974) — 80,000+ graduates in 52 countries.
+
+↓
+
+**Word of Faith movement** — Kenneth Copeland, Benny Hinn, Joyce Meyer, Creflo Dollar, Joel Osteen. The doctrine spread globally through RHEMA graduates planting churches.
+
+### The Critical Distinction: MacMillan vs. Kenyon
+
+John MacMillan (CMA missionary, 1932) wrote the original orthodox "Authority of the Believer" — teaching delegated authority through positional truth in Ephesians 1-2, requiring consecration and obedience, operating within God's sovereign will, focused on missionary spiritual warfare.
+
+Kenyon taught something entirely different: autonomous authority wielded by believers through "positive confession," faith as a "force," and words as "containers" of creative power.
+
+Hagin plagiarized BOTH, blending MacMillan's orthodox framework with Kenyon's heterodox innovations. The result looked biblical on the surface (Ephesians language, positional truth) but carried New Thought DNA underneath (faith as force, words creating reality, believers as gods).
+
+MacMillan scholar Paul L. King confirms: MacMillan "would not approve of all that is currently taught...such as 'little gods' and 'name it and claim it.'"
+
+### Was It EVER Taught Before Kenyon?
+
+**No.** No church father, no Reformer, no pre-1890 Protestant taught that believers possess inherent spiritual authority, that faith is a "force," that spoken words create physical reality, or that Jesus died spiritually and was "born again."
+
+What historic Christianity DID teach:
+- Authority over demons through Christ's delegated power and prayer (early church fathers)
+- Spiritual warfare through consecration and intercession (Keswick/Higher Life tradition)
+- Positional truth in Ephesians as the basis for prayer and spiritual confidence (MacMillan, 1932)
+
+None of this resembles the Word of Faith version.
+
+### Scholarly Sources
+
+- **D.R. McConnell**, *A Different Gospel* (Hendrickson, 1988/1995) — Documented plagiarism and metaphysical origins
+- **Hank Hanegraaff**, *Christianity in Crisis* (Harvest House, 1993) — Catalogued theological errors
+- **Kate Bowler**, *Blessed: A History of the American Prosperity Gospel* (Oxford UP, 2013) — Academic history with decade of field research
+- **William Atkinson**, *The Spiritual Death of Jesus: A Pentecostal Investigation* (Brill, 2009) — Edinburgh PhD, award-winning theological appraisal
+- **Robert Jackson**, "Prosperity Theology and the Faith Movement," *Themelios* (The Gospel Coalition) — Peer-reviewed critique
+
+---
+
 *Study completed: 2026-06-28 | 52 passages examined | 21 word studies | bible-study8 pipeline*
+*Historical origins research: 10+ web sources, 5 scholarly monographs traced*
