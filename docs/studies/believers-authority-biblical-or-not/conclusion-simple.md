@@ -222,11 +222,22 @@ None of this resembles the Word of Faith version.
 
 ### Scholarly Sources
 
-- **D.R. McConnell**, *A Different Gospel* (Hendrickson, 1988/1995) — Documented plagiarism and metaphysical origins
-- **Hank Hanegraaff**, *Christianity in Crisis* (Harvest House, 1993) — Catalogued theological errors
-- **Kate Bowler**, *Blessed: A History of the American Prosperity Gospel* (Oxford UP, 2013) — Academic history with decade of field research
-- **William Atkinson**, *The Spiritual Death of Jesus: A Pentecostal Investigation* (Brill, 2009) — Edinburgh PhD, award-winning theological appraisal
-- **Robert Jackson**, "Prosperity Theology and the Faith Movement," *Themelios* (The Gospel Coalition) — Peer-reviewed critique
+- **D.R. McConnell**, [*A Different Gospel*](https://www.amazon.com/Different-Gospel-Biblical-Historical-Movement/dp/1565631323) (Hendrickson, 1988/1995) — Documented plagiarism and metaphysical origins. McConnell was an ORU student who discovered the Kenyon-Hagin connection.
+- **Hank Hanegraaff**, [*Christianity in Crisis*](https://www.amazon.com/Christianity-Crisis-21st-Century/dp/0849964598) (Harvest House, 1993) — Catalogued theological errors using the F.L.A.W.S. framework (Faith in faith, Little gods, Atonement atrocities, Wealth and want, Sickness and suffering).
+- **Kate Bowler**, [*Blessed: A History of the American Prosperity Gospel*](https://global.oup.com/academic/product/blessed-9780199827695) (Oxford UP, 2013) — First comprehensive academic history; decade of field research across 25% of prosperity megachurches.
+- **William Atkinson**, [*The Spiritual Death of Jesus: A Pentecostal Investigation*](https://brill.com/view/title/15908) (Brill, 2009) — Edinburgh PhD, award-winning theological appraisal tracing the JDS doctrine from Kenyon → Hagin → Copeland.
+- **Robert Jackson**, ["Prosperity Theology and the Faith Movement"](https://www.thegospelcoalition.org/themelios/article/prosperity-theology-and-the-faith-movement/) (*Themelios*, The Gospel Coalition) — Peer-reviewed critique identifying three exegetical errors and concluding the doctrine is "heretical because its claim to be Christian cannot be substantiated."
+- **Paul L. King**, ["The Restoration of the Doctrine of Binding and Loosing"](https://www.academia.edu/resource/work/38878936) (*Alliance Academic Review*, 1997) — Documents MacMillan's orthodox teaching and distinguishes it from Word of Faith distortions.
+
+### Additional Web Sources Used in This Research
+
+- [BibleHub Commentaries — Luke 10:19](https://biblehub.com/commentaries/luke/10-19.htm) — Multiple scholarly commentators on exousia vs. dynamis distinction
+- [Precept Austin — Acts 1:8 Commentary](https://www.preceptaustin.org/acts_18_commentary) — John Owen, D.L. Moody, Leon Morris on Spirit-dependence
+- [Precept Austin — Matthew 10:1 Commentary](https://www.preceptaustin.org/matthew-10-commentary) — Delegated authority documentation
+- [GotQuestions — Exousia Meaning](https://www.gotquestions.org/exousia-meaning.html) — Greek lexical analysis
+- [CBE International — NT Limits of Authority](https://www.cbeinternational.org/resource/new-testament-limits-authority-and-hierarchical-power/) — Six restrictions on human authority
+- [Christian Publishing House — 2 Corinthians 12:9 Exegesis](https://christianpublishinghouse.co/2023/09/11/exegetical-analysis-of-2-corinthians-129-the-paradox-of-strength-in-weakness/) — teleitai present passive analysis
+- [Scielo — Matthew 28:18-20 Exegesis](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2305-08532018000100020) — Peer-reviewed; authority is Christ's, not transferred to disciples
 
 ---
 
