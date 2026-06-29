@@ -222,8 +222,8 @@ None of this resembles the Word of Faith version.
 
 ### Scholarly Sources
 
-- **D.R. McConnell**, [*A Different Gospel*](https://www.amazon.com/Different-Gospel-Biblical-Historical-Movement/dp/1565631323) (Hendrickson, 1988/1995) — Documented plagiarism and metaphysical origins. McConnell was an ORU student who discovered the Kenyon-Hagin connection.
-- **Hank Hanegraaff**, [*Christianity in Crisis*](https://www.amazon.com/Christianity-Crisis-21st-Century/dp/0849964598) (Harvest House, 1993) — Catalogued theological errors using the F.L.A.W.S. framework (Faith in faith, Little gods, Atonement atrocities, Wealth and want, Sickness and suffering).
+- **D.R. McConnell**, *A Different Gospel* (Hendrickson, 1988/1995) — Documented plagiarism and metaphysical origins. McConnell was an ORU student who discovered the Kenyon-Hagin connection. ISBN: 978-1565631328.
+- **Hank Hanegraaff**, *Christianity in Crisis* (Harvest House, 1993/2009) — Catalogued theological errors using the F.L.A.W.S. framework (Faith in faith, Little gods, Atonement atrocities, Wealth and want, Sickness and suffering). ISBN: 978-0849964596.
 - **Kate Bowler**, [*Blessed: A History of the American Prosperity Gospel*](https://global.oup.com/academic/product/blessed-9780199827695) (Oxford UP, 2013) — First comprehensive academic history; decade of field research across 25% of prosperity megachurches.
 - **William Atkinson**, [*The Spiritual Death of Jesus: A Pentecostal Investigation*](https://brill.com/view/title/15908) (Brill, 2009) — Edinburgh PhD, award-winning theological appraisal tracing the JDS doctrine from Kenyon → Hagin → Copeland.
 - **Robert Jackson**, ["Prosperity Theology and the Faith Movement"](https://www.thegospelcoalition.org/themelios/article/prosperity-theology-and-the-faith-movement/) (*Themelios*, The Gospel Coalition) — Peer-reviewed critique identifying three exegetical errors and concluding the doctrine is "heretical because its claim to be Christian cannot be substantiated."
