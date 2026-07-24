@@ -79,6 +79,20 @@ nav:
 
   - Studies:
 
+    - "What Does the Scapegoat Represent on the Day of Atonement?":
+      - studies/scapegoat-day-of-atonement/conclusion-simple.md
+      - "Interactive Argument Map": studies/scapegoat-day-of-atonement/interactive-map.md
+      - Conclusion: studies/scapegoat-day-of-atonement/CONCLUSION.md
+      - Analysis: studies/scapegoat-day-of-atonement/03-analysis.md
+      - Verses: studies/scapegoat-day-of-atonement/02-verses.md
+      - Word Studies: studies/scapegoat-day-of-atonement/04-word-studies.md
+      - Topics: studies/scapegoat-day-of-atonement/01-topics.md
+      - Research Scope: studies/scapegoat-day-of-atonement/PROMPT.md
+      - Raw Data:
+        - "Hebrew Parsing": studies/scapegoat-day-of-atonement/raw-data/hebrew-parsing.md
+        - "Greek Parsing": studies/scapegoat-day-of-atonement/raw-data/greek-parsing.md
+        - "Cross-Testament Parallels": studies/scapegoat-day-of-atonement/raw-data/parallels.md
+
     - "Did the Apostle John Write Revelation?":
       - studies/revelation-authorship-grammar/conclusion-simple.md
       - Conclusion: studies/revelation-authorship-grammar/CONCLUSION.md
