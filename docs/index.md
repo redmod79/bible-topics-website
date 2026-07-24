@@ -26,6 +26,7 @@ Every study follows the same core principles:
 
 | Study | Question |
 |-------|----------|
+| [What Does the Scapegoat Represent on the Day of Atonement?](studies/scapegoat-day-of-atonement/conclusion-simple.md) | On the Day of Atonement one goat is killed and the other — the "scapegoat" (Azazel) — is sent alive into the wilderness. What does that live goat represent? Includes an interactive argument map of the full reasoning. |
 | [Did the Apostle John Write Revelation?](studies/revelation-authorship-grammar/conclusion-simple.md) | A Greek grammar and vocabulary analysis comparing Revelation against the Gospel of John and 1-3 John to evaluate common authorship. |
 | [The Two Genealogies of Jesus](studies/genealogies-of-jesus/conclusion-simple.md) | Why does Matthew trace Jesus' lineage through Solomon while Luke traces it through Nathan? Are the two genealogies contradictory or complementary? |
 | [Salvation Before Jesus: Same Means or Different?](studies/salvation-before-jesus/conclusion-simple.md) | How were God's people saved before Jesus came? Were they saved by a different means — like keeping the Law — or by the same grace-through-faith mechanism as after the cross? |
