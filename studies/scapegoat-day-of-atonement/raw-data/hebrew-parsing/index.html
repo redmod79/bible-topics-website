@@ -1,0 +1,6175 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A collection of independent Bible studies on various topics, each produced by tool-driven research using a three-agent pipeline.">
+      
+      
+      
+      
+        <link rel="prev" href="../../PROMPT/">
+      
+      
+        <link rel="next" href="../greek-parsing/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.5">
+    
+    
+      
+        <title>Hebrew Parsing - Bible Study Collection</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="teal">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#raw-hebrew-parsing-output" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+<a href="https://redmod79.github.io/bible-study-hub/" style="text-decoration: none;">
+  Browse all Bible Study Series &rarr;
+</a>
+
+          </div>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../.." title="Bible Study Collection" class="md-header__button md-logo" aria-label="Bible Study Collection" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Bible Study Collection
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Hebrew Parsing
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="teal"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="teal"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../methodology/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Methodology
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../tools/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Research Tools
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../conclusion-simple/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Studies
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="Bible Study Collection" class="md-nav__button md-logo" aria-label="Bible Study Collection" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Bible Study Collection
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../methodology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Methodology
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../tools/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Tools
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Studies
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Studies
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    What Does the Scapegoat Represent on the Day of Atonement?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    What Does the Scapegoat Represent on the Day of Atonement?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    What Does the Scapegoat Represent on the Day of Atonement?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../interactive-map/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interactive Argument Map
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_9" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4_1_9" id="__nav_4_1_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_9_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_1_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hebrew Parsing
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hebrew Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#isa-5312" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Isa 53:12
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1610" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:10
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1615" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:15
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1617" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:17
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1618" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:18
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1620" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:20
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1621" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:21
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1622" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:22
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1627" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:27
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-168" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:8
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-177" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 17:7
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-2220" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 22:20
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-2221" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 22:21
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../greek-parsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Did the Apostle John Write Revelation?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Did the Apostle John Write Revelation?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Simple Conclusion: Did the Apostle John Write Revelation?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_8" id="__nav_4_2_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/raw-data/naves-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/raw-data/parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/raw-data/greek-parsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/raw-data/strongs-lookups/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strong's Lookups
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/raw-data/grammar-references/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grammar References
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../revelation-authorship-grammar/raw-data/concept-context/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Concept Context
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Two Genealogies of Jesus
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    The Two Genealogies of Jesus
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Simple Conclusion: The Two Genealogies of Jesus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3_8" id="__nav_4_3_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_3_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/raw-data/naves-entries.txt" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Entries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/raw-data/cross-testament-parallels.txt" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/raw-data/greek-parsing.txt" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../genealogies-of-jesus/raw-data/strongs-lookups.txt" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strong's Lookups
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_4" id="__nav_4_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Was 'This Generation Shall Not Pass' a Failed Prophecy?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Was 'This Generation Shall Not Pass' a Failed Prophecy?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Was "This Generation Shall Not Pass" a Failed Prophecy?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_4_8" id="__nav_4_4_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_4_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/raw-data/naves-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/raw-data/parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/raw-data/greek-parsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/raw-data/hebrew-parsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hebrew Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/raw-data/strongs-lookups/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strong's Lookups
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/raw-data/concept-context/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Concept Context
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../this-generation-failed-prophecy/raw-data/existing-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Existing Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Salvation Before Jesus: Same Means or Different?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Salvation Before Jesus: Same Means or Different?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Were People Saved Differently Before Jesus?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5_8" id="__nav_4_5_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_5_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/raw-data/naves-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/raw-data/parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/raw-data/parsing-results/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parsing Results
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../salvation-before-jesus/raw-data/strongs-lookups/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strong's Lookups
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_6" id="__nav_4_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Did Jesus Declare All Foods Clean in Mark 7?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Did Jesus Declare All Foods Clean in Mark 7?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Did Jesus Declare All Foods Clean in Mark 7?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_6_8" id="__nav_4_6_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_6_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_6_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/raw-data/naves-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/raw-data/parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/raw-data/greek-parsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/raw-data/strongs-lookups/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strong's Lookups
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mark-7-all-foods-clean/raw-data/text-comparison/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text Comparison
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_7" id="__nav_4_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Did Jephthah Sacrifice His Daughter?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Did Jephthah Sacrifice His Daughter?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Did Jephthah Sacrifice His Daughter?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_7_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_7_8" id="__nav_4_7_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_7_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_7_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/raw-data/naves-entries/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Entries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/raw-data/parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/raw-data/jdg-11-hebrew-parse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hebrew Parsing (Judges 11)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/raw-data/heb-11-greek-parse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing (Hebrews 11)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/raw-data/strongs-lookups/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strong's Lookups
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../jephthah-daughter-sacrifice/raw-data/concept-context/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Concept Context
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_8" id="__nav_4_8_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Who Is the Man of Sin in 2 Thessalonians 2?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Who Is the Man of Sin in 2 Thessalonians 2?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Who Is the Man of Sin in 2 Thessalonians 2?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_8_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_8_8" id="__nav_4_8_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_8_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_8_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/naves-entries/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Entries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/2thess-2-greek-parse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing (2 Thess 2)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/johannine-antichrist-parses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Johannine Antichrist Parses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/pauline-naos-concordance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pauline Naos Concordance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/concept-context/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Concept Context
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/external-corpus-verification/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    External Corpus Verification
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-comparisons/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text Comparisons
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-2thess/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — 2 Thessalonians
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-daniel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — Daniel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-isa-ezek/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — Isaiah/Ezekiel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-johannine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — Johannine
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-latter-times/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — Latter Times
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-olivet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — Olivet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-revelation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — Revelation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../man-of-sin-2thess-2/raw-data/text-temple-corpus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text — Temple Corpus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_9" id="__nav_4_9_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Does the Bible Teach 'Believer's Authority'?
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Does the Bible Teach 'Believer's Authority'?
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/conclusion-simple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Does the Bible Teach "Believer's Authority"?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/CONCLUSION/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/03-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/02-verses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/04-word-studies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word Studies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/01-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/PROMPT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Scope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_9_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_9_8" id="__nav_4_9_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Raw Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_9_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_9_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Raw Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/raw-data/naves-topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nave's Topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/raw-data/parallels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cross-Testament Parallels
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/raw-data/greek-parsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Greek Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/raw-data/hebrew-parsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hebrew Parsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../believers-authority-biblical-or-not/raw-data/doctrine-origins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Historical Origins Research
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#isa-5312" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Isa 53:12
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1610" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:10
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1615" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:15
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1617" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:17
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1618" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:18
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1620" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:20
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1621" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:21
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1622" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:22
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-1627" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:27
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-168" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 16:8
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-177" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 17:7
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-2220" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 22:20
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lev-2221" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lev 22:21
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="raw-hebrew-parsing-output">Raw Hebrew Parsing Output<a class="headerlink" href="#raw-hebrew-parsing-output" title="Permanent link">&para;</a></h1>
+<h2 id="isa-5312">Isa 53:12<a class="headerlink" href="#isa-5312" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Isaiah 53:12
+======================================================================</p>
+<p>לָכֵ֞ן אֲחַלֶּק־לֹ֣ו בָרַבִּ֗ים וְאֶת־עֲצוּמִים֮ יְחַלֵּ֣ק שָׁלָל֒ תַּ֗חַת אֲשֶׁ֨ר הֶעֱרָ֤ה לַמָּ֨וֶת֙ נַפְשֹׁ֔ו וְאֶת־פֹּשְׁעִ֖ים נִמְנָ֑ה וְהוּא֙ חֵטְא־רַבִּ֣ים נָשָׂ֔א וְלַפֹּשְׁעִ֖ים יַפְגִּֽיעַ׃ ס </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>לָכֵ֞ן          לכן          Adv.+NAN                  therefore
+  אֲחַלֶּק        חלק          Verb.Piel.Impf.1s         divide
+  לֹ֣ו            ל            Prep.+3ms                 to
+  בָ              ב            Prep                      in
+                  ה            Art.+NAN                  the
+  רַבִּ֗ים        רב           Adj.mp.Abs                much
+  וְ              ו            Conj.+NAN                 and
+  אֶת             את           Prep                      together with
+  עֲצוּמִים֮      עצום         Adj.mp.Abs                mighty
+  יְחַלֵּ֣ק       חלק          Verb.Piel.Impf.3ms        divide
+  שָׁלָל֒         שׁלל         Noun.ms.Abs               plunder
+  תַּ֗חַת         תחת          Noun.ms.Cst               under part
+  אֲשֶׁ֨ר         אשׁר         Conj.+NAN                 <relative>
+  הֶעֱרָ֤ה        ערה          Verb.Hiphil.Perf.3ms      pour out
+  לַ              ל            Prep                      to
+                  ה            Art.+NAN                  the
+  מָּ֨וֶת֙        מות          Noun.ms.Abs               death
+  נַפְשֹׁ֔ו       נפשׁ         Noun.fs.Abs.+3ms          soul
+  וְ              ו            Conj.+NAN                 and
+  אֶת             את           Prep                      together with
+  פֹּשְׁעִ֖ים     פשׁע         Verb.Qal.Ptcp.unknownmp.Abs rebel
+  נִמְנָ֑ה        מנה          Verb.Niphal.Perf.3ms      count
+  וְ              ו            Conj.+NAN                 and
+  הוּא֙           הוא          PersPron.3ms.+NAN         he
+  חֵטְא           חטא          Noun.ms.Cst               offence
+  רַבִּ֣ים        רב           Adj.mp.Abs                much
+  נָשָׂ֔א         נשׂא         Verb.Qal.Perf.3ms         lift
+  וְ              ו            Conj.+NAN                 and
+  לַ              ל            Prep                      to
+                  ה            Art.+NAN                  the
+  פֹּשְׁעִ֖ים     פשׁע         Verb.Qal.Ptcp.unknownmp.Abs rebel
+  יַפְגִּֽיעַ     פגע          Verb.Hiphil.Impf.3ms      meet</p>
+<h2 id="lev-1610">Lev 16:10<a class="headerlink" href="#lev-1610" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:10
+======================================================================</p>
+<p>וְהַשָּׂעִ֗יר אֲשֶׁר֩ עָלָ֨ה עָלָ֤יו הַגֹּורָל֙ לַעֲזָאזֵ֔ל יָֽעֳמַד־חַ֛י לִפְנֵ֥י יְהוָ֖ה לְכַפֵּ֣ר עָלָ֑יו לְשַׁלַּ֥ח אֹתֹ֛ו לַעֲזָאזֵ֖ל הַמִּדְבָּֽרָה׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  הַ              ה            Art.+NAN                  the
+  שָּׂעִ֗יר       שׂעיר        Noun.ms.Abs               he-goat
+  אֲשֶׁר֩         אשׁר         Conj.+NAN                 <relative>
+  עָלָ֨ה          עלה          Verb.Qal.Perf.3ms         ascend
+  עָלָ֤יו         על           Prep.+3ms                 upon
+  הַ              ה            Art.+NAN                  the
+  גֹּורָל֙        גורל         Noun.ms.Abs               lot
+  לַ              ל            Prep                      to
+  עֲזָאזֵ֔ל       עזאזל        PropN.ms.Abs.+NAN         Azazel
+  יָֽעֳמַד        עמד          Verb.Hophal.Impf.3ms      stand
+  חַ֛י            חי           Adj.ms.Abs                alive
+  לִ              ל            Prep                      to
+  פְנֵ֥י          פנה          Noun.mp.Cst               face
+  יְהוָ֖ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  לְ              ל            Prep                      to
+  כַפֵּ֣ר         כפר          Verb.Piel.InfCon.unknownunknown.Abs cover
+  עָלָ֑יו         על           Prep.+3ms                 upon
+  לְ              ל            Prep                      to
+  שַׁלַּ֥ח        שׁלח         Verb.Piel.InfCon.unknownunknown.Abs send
+  אֹתֹ֛ו          את           Prep.+3ms                 <object marker>
+  לַ              ל            Prep                      to
+  עֲזָאזֵ֖ל       עזאזל        PropN.ms.Abs.+NAN         Azazel
+  הַ              ה            Art.+NAN                  the
+  מִּדְבָּֽרָה    מדבר         Noun.ms.Abs               desert</p>
+<h2 id="lev-1615">Lev 16:15<a class="headerlink" href="#lev-1615" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:15
+======================================================================</p>
+<p>וְשָׁחַ֞ט אֶת־שְׂעִ֤יר הַֽחַטָּאת֙ אֲשֶׁ֣ר לָעָ֔ם וְהֵבִיא֙ אֶת־דָּמֹ֔ו אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת וְעָשָׂ֣ה אֶת־דָּמֹ֗ו כַּאֲשֶׁ֤ר עָשָׂה֙ לְדַ֣ם הַפָּ֔ר וְהִזָּ֥ה אֹתֹ֛ו עַל־הַכַּפֹּ֖רֶת וְלִפְנֵ֥י הַכַּפֹּֽרֶת׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  שָׁחַ֞ט         שׁחט         Verb.Qal.Perf.3ms         slaughter
+  אֶת             את           Prep                      <object marker>
+  שְׂעִ֤יר        שׂעיר        Noun.ms.Cst               he-goat
+  הַֽ             ה            Art.+NAN                  the
+  חַטָּאת֙        חטאת         Noun.fs.Abs               sin
+  אֲשֶׁ֣ר         אשׁר         Conj.+NAN                 <relative>
+  לָ              ל            Prep                      to
+                  ה            Art.+NAN                  the
+  עָ֔ם            עם           Noun.ms.Abs               people
+  וְ              ו            Conj.+NAN                 and
+  הֵבִיא֙         בוא          Verb.Hiphil.Perf.3ms      come
+  אֶת             את           Prep                      <object marker>
+  דָּמֹ֔ו         דם           Noun.ms.Abs.+3ms          blood
+  אֶל             אל           Prep                      to
+  מִ              מן           Prep                      from
+  בֵּ֖ית          בית          Noun.ms.Cst               house
+  לַ              ל            Prep                      to
+                  ה            Art.+NAN                  the
+  פָּרֹ֑כֶת       פרכת         Noun.fs.Abs               curtain
+  וְ              ו            Conj.+NAN                 and
+  עָשָׂ֣ה         עשׂה         Verb.Qal.Perf.3ms         make
+  אֶת             את           Prep                      <object marker>
+  דָּמֹ֗ו         דם           Noun.ms.Abs.+3ms          blood
+  כַּ             כ            Prep                      as
+  אֲשֶׁ֤ר         אשׁר         Conj.+NAN                 <relative>
+  עָשָׂה֙         עשׂה         Verb.Qal.Perf.3ms         make
+  לְ              ל            Prep                      to
+  דַ֣ם            דם           Noun.ms.Cst               blood
+  הַ              ה            Art.+NAN                  the
+  פָּ֔ר           פר           Noun.ms.Abs               young bull
+  וְ              ו            Conj.+NAN                 and
+  הִזָּ֥ה         נזה          Verb.Hiphil.Perf.3ms      spatter
+  אֹתֹ֛ו          את           Prep.+3ms                 <object marker>
+  עַל             על           Prep                      upon
+  הַ              ה            Art.+NAN                  the
+  כַּפֹּ֖רֶת      כפרת         Noun.fs.Abs               cover
+  וְ              ו            Conj.+NAN                 and
+  לִ              ל            Prep                      to
+  פְנֵ֥י          פנה          Noun.mp.Cst               face
+  הַ              ה            Art.+NAN                  the
+  כַּפֹּֽרֶת      כפרת         Noun.fs.Abs               cover</p>
+<h2 id="lev-1617">Lev 16:17<a class="headerlink" href="#lev-1617" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:17
+======================================================================</p>
+<p>וְכָל־אָדָ֞ם לֹא־יִהְיֶ֣ה׀ בְּאֹ֣הֶל מֹועֵ֗ד בְּבֹאֹ֛ו לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ עַד־צֵאתֹ֑ו וְכִפֶּ֤ר בַּעֲדֹו֙ וּבְעַ֣ד בֵּיתֹ֔ו וּבְעַ֖ד כָּל־קְהַ֥ל יִשְׂרָאֵֽל׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  כָל             כל           Noun.ms.Cst               whole
+  אָדָ֞ם          אדם          Noun.ms.Abs               human, mankind
+  לֹא             לא           Neg.+NAN                  not
+  יִהְיֶ֣ה        היה          Verb.Qal.Impf.3ms         be
+  בְּ             ב            Prep                      in
+  אֹ֣הֶל          אהל          Noun.ms.Cst               tent
+  מֹועֵ֗ד         מועד         Noun.ms.Abs               appointment
+  בְּ             ב            Prep                      in
+  בֹאֹ֛ו          בוא          Verb.Qal.InfCon.unknownunknown.Abs.+3ms come
+  לְ              ל            Prep                      to
+  כַפֵּ֥ר         כפר          Verb.Piel.InfCon.unknownunknown.Abs cover
+  בַּ             ב            Prep                      in
+                  ה            Art.+NAN                  the
+  קֹּ֖דֶשׁ        קדשׁ         Noun.ms.Abs               holiness
+  עַד             עד           Prep                      unto
+  צֵאתֹ֑ו         יצא          Verb.Qal.InfCon.unknownunknown.Abs.+3ms go out
+  וְ              ו            Conj.+NAN                 and
+  כִפֶּ֤ר         כפר          Verb.Piel.Perf.3ms        cover
+  בַּעֲדֹו֙       בעד          Noun.s.Abs.+3ms           distance
+  וּ              ו            Conj.+NAN                 and
+  בְעַ֣ד          בעד          Noun.s.Cst                distance
+  בֵּיתֹ֔ו        בית          Noun.ms.Abs.+3ms          house
+  וּ              ו            Conj.+NAN                 and
+  בְעַ֖ד          בעד          Noun.s.Cst                distance
+  כָּל            כל           Noun.ms.Cst               whole
+  קְהַ֥ל          קהל          Noun.ms.Cst               assembly
+  יִשְׂרָאֵֽל     ישׂראל       PropN.s.Abs.+NAN          Israel</p>
+<h2 id="lev-1618">Lev 16:18<a class="headerlink" href="#lev-1618" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:18
+======================================================================</p>
+<p>וְיָצָ֗א אֶל־הַמִּזְבֵּ֛חַ אֲשֶׁ֥ר לִפְנֵֽי־יְהוָ֖ה וְכִפֶּ֣ר עָלָ֑יו וְלָקַ֞ח מִדַּ֤ם הַפָּר֙ וּמִדַּ֣ם הַשָּׂעִ֔יר וְנָתַ֛ן עַל־קַרְנֹ֥ות הַמִּזְבֵּ֖חַ סָבִֽיב׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  יָצָ֗א          יצא          Verb.Qal.Perf.3ms         go out
+  אֶל             אל           Prep                      to
+  הַ              ה            Art.+NAN                  the
+  מִּזְבֵּ֛חַ     מזבח         Noun.ms.Abs               altar
+  אֲשֶׁ֥ר         אשׁר         Conj.+NAN                 <relative>
+  לִ              ל            Prep                      to
+  פְנֵֽי          פנה          Noun.mp.Cst               face
+  יְהוָ֖ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  וְ              ו            Conj.+NAN                 and
+  כִפֶּ֣ר         כפר          Verb.Piel.Perf.3ms        cover
+  עָלָ֑יו         על           Prep.+3ms                 upon
+  וְ              ו            Conj.+NAN                 and
+  לָקַ֞ח          לקח          Verb.Qal.Perf.3ms         take
+  מִ              מן           Prep                      from
+  דַּ֤ם           דם           Noun.ms.Cst               blood
+  הַ              ה            Art.+NAN                  the
+  פָּר֙           פר           Noun.ms.Abs               young bull
+  וּ              ו            Conj.+NAN                 and
+  מִ              מן           Prep                      from
+  דַּ֣ם           דם           Noun.ms.Cst               blood
+  הַ              ה            Art.+NAN                  the
+  שָּׂעִ֔יר       שׂעיר        Noun.ms.Abs               he-goat
+  וְ              ו            Conj.+NAN                 and
+  נָתַ֛ן          נתן          Verb.Qal.Perf.3ms         give
+  עַל             על           Prep                      upon
+  קַרְנֹ֥ות       קרן          Noun.fp.Cst               horn
+  הַ              ה            Art.+NAN                  the
+  מִּזְבֵּ֖חַ     מזבח         Noun.ms.Abs               altar
+  סָבִֽיב         סביב         Noun.s.Abs                surrounding</p>
+<h2 id="lev-1620">Lev 16:20<a class="headerlink" href="#lev-1620" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:20
+======================================================================</p>
+<p>וְכִלָּה֙ מִכַּפֵּ֣ר אֶת־הַקֹּ֔דֶשׁ וְאֶת־אֹ֥הֶל מֹועֵ֖ד וְאֶת־הַמִּזְבֵּ֑חַ וְהִקְרִ֖יב אֶת־הַשָּׂעִ֥יר הֶחָֽי׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  כִלָּה֙         כלה          Verb.Piel.Perf.3ms        be complete
+  מִ              מן           Prep                      from
+  כַּפֵּ֣ר        כפר          Verb.Piel.InfCon.unknownunknown.Abs cover
+  אֶת             את           Prep                      <object marker>
+  הַ              ה            Art.+NAN                  the
+  קֹּ֔דֶשׁ        קדשׁ         Noun.ms.Abs               holiness
+  וְ              ו            Conj.+NAN                 and
+  אֶת             את           Prep                      <object marker>
+  אֹ֥הֶל          אהל          Noun.ms.Cst               tent
+  מֹועֵ֖ד         מועד         Noun.ms.Abs               appointment
+  וְ              ו            Conj.+NAN                 and
+  אֶת             את           Prep                      <object marker>
+  הַ              ה            Art.+NAN                  the
+  מִּזְבֵּ֑חַ     מזבח         Noun.ms.Abs               altar
+  וְ              ו            Conj.+NAN                 and
+  הִקְרִ֖יב       קרב          Verb.Hiphil.Perf.3ms      approach
+  אֶת             את           Prep                      <object marker>
+  הַ              ה            Art.+NAN                  the
+  שָּׂעִ֥יר       שׂעיר        Noun.ms.Abs               he-goat
+  הֶ              ה            Art.+NAN                  the
+  חָֽי            חי           Adj.ms.Abs                alive</p>
+<h2 id="lev-1621">Lev 16:21<a class="headerlink" href="#lev-1621" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:21
+======================================================================</p>
+<p>וְסָמַ֨ךְ אַהֲרֹ֜ן אֶת־שְׁתֵּ֣י יָדָ֗יו עַ֨ל רֹ֣אשׁ הַשָּׂעִיר֮ הַחַי֒ וְהִתְוַדָּ֣ה עָלָ֗יו אֶת־כָּל־עֲוֹנֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאֶת־כָּל־פִּשְׁעֵיהֶ֖ם לְכָל־חַטֹּאתָ֑ם וְנָתַ֤ן אֹתָם֙ עַל־רֹ֣אשׁ הַשָּׂעִ֔יר וְשִׁלַּ֛ח בְּיַד־אִ֥ישׁ עִתִּ֖י הַמִּדְבָּֽרָה׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  סָמַ֨ךְ         סמך          Verb.Qal.Perf.3ms         support
+  אַהֲרֹ֜ן        אהרן         PropN.ms.Abs.+NAN         Aaron
+  אֶת             את           Prep                      <object marker>
+  שְׁתֵּ֣י        שׁנים        Noun.fd.Cst               two
+  ידו             יד           Noun.d.Abs.+3ms           hand
+  עַ֨ל            על           Prep                      upon
+  רֹ֣אשׁ          ראשׁ         Noun.ms.Cst               head
+  הַ              ה            Art.+NAN                  the
+  שָּׂעִיר֮       שׂעיר        Noun.ms.Abs               he-goat
+  הַ              ה            Art.+NAN                  the
+  חַי֒            חי           Adj.ms.Abs                alive
+  וְ              ו            Conj.+NAN                 and
+  הִתְוַדָּ֣ה     ידה          Verb.Hithpael.Perf.3ms    praise
+  עָלָ֗יו         על           Prep.+3ms                 upon
+  אֶת             את           Prep                      <object marker>
+  כָּל            כל           Noun.ms.Cst               whole
+  עֲוֹנֹת֙        עון          Noun.mp.Cst               sin
+  בְּנֵ֣י         בן           Noun.mp.Cst               son
+  יִשְׂרָאֵ֔ל     ישׂראל       PropN.s.Abs.+NAN          Israel
+  וְ              ו            Conj.+NAN                 and
+  אֶת             את           Prep                      <object marker>
+  כָּל            כל           Noun.ms.Cst               whole
+  פִּשְׁעֵיהֶ֖ם   פשׁע         Noun.mp.Abs.+3mp          rebellion
+  לְ              ל            Prep                      to
+  כָל             כל           Noun.ms.Cst               whole
+  חַטֹּאתָ֑ם      חטאת         Noun.fp.Abs.+3mp          sin
+  וְ              ו            Conj.+NAN                 and
+  נָתַ֤ן          נתן          Verb.Qal.Perf.3ms         give
+  אֹתָם֙          את           Prep.+3mp                 <object marker>
+  עַל             על           Prep                      upon
+  רֹ֣אשׁ          ראשׁ         Noun.ms.Cst               head
+  הַ              ה            Art.+NAN                  the
+  שָּׂעִ֔יר       שׂעיר        Noun.ms.Abs               he-goat
+  וְ              ו            Conj.+NAN                 and
+  שִׁלַּ֛ח        שׁלח         Verb.Piel.Perf.3ms        send
+  בְּ             ב            Prep                      in
+  יַד             יד           Noun.s.Cst                hand
+  אִ֥ישׁ          אישׁ         Noun.ms.Abs               man
+  עִתִּ֖י         עתי          Adj.ms.Abs                ready
+  הַ              ה            Art.+NAN                  the
+  מִּדְבָּֽרָה    מדבר         Noun.ms.Abs               desert</p>
+<h2 id="lev-1622">Lev 16:22<a class="headerlink" href="#lev-1622" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:22
+======================================================================</p>
+<p>וְנָשָׂ֨א הַשָּׂעִ֥יר עָלָ֛יו אֶת־כָּל־עֲוֹנֹתָ֖ם אֶל־אֶ֣רֶץ גְּזֵרָ֑ה וְשִׁלַּ֥ח אֶת־הַשָּׂעִ֖יר בַּמִּדְבָּֽר׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  נָשָׂ֨א         נשׂא         Verb.Qal.Perf.3ms         lift
+  הַ              ה            Art.+NAN                  the
+  שָּׂעִ֥יר       שׂעיר        Noun.ms.Abs               he-goat
+  עָלָ֛יו         על           Prep.+3ms                 upon
+  אֶת             את           Prep                      <object marker>
+  כָּל            כל           Noun.ms.Cst               whole
+  עֲוֹנֹתָ֖ם      עון          Noun.mp.Abs.+3mp          sin
+  אֶל             אל           Prep                      to
+  אֶ֣רֶץ          ארץ          Noun.s.Cst                earth
+  גְּזֵרָ֑ה       גזרה         Noun.fs.Abs               dry land
+  וְ              ו            Conj.+NAN                 and
+  שִׁלַּ֥ח        שׁלח         Verb.Piel.Perf.3ms        send
+  אֶת             את           Prep                      <object marker>
+  הַ              ה            Art.+NAN                  the
+  שָּׂעִ֖יר       שׂעיר        Noun.ms.Abs               he-goat
+  בַּ             ב            Prep                      in
+                  ה            Art.+NAN                  the
+  מִּדְבָּֽר      מדבר         Noun.ms.Abs               desert</p>
+<h2 id="lev-1627">Lev 16:27<a class="headerlink" href="#lev-1627" title="Permanent link">&para;</a></h2>
+<p>Leviticus 16:27
+Hebrew: וְאֵתש̩ פַר הַחַטָאת וְאֵת שְׂעִיר הַחַטָאת אֲשֶׁר הובָא אֶת־דָמָם לְכַפֵּר בַּקֹּדֶש יוֹצִיא אֶל־מִחוּץ לַמַּחֲנֶה וְשָׂרְפוּ בָאֵש אֶת־עֹרֹתָם וְאֶת־בְּשָׂרָם וְאֶת־פִּרשָׁם׃
+וְ (ו) Conj.+NAN | and
+אֵת (את) Prep | <object marker>
+פַר (פר) Noun.ms.Cst | young bull
+הַ (ה) Art.+NAN | the
+חַטָאת (חטאת) Noun.fs.Abs | sin
+וְ (ו) Conj.+NAN | and
+אֵת (את) Prep | <object marker>
+שְׂעִיר (שׂעיר) Noun.ms.Cst | he-goat
+הַ (ה) Art.+NAN | the
+חַטָאת (חטאת) Noun.fs.Abs | sin
+אֲשֶׁר (אשר) Conj.+NAN | <relative>
+הוּבָא (בוא) Verb.Hophal.Perf.3ms | come (was brought in)
+אֶת (את) Prep | <object marker>
+דָמָם (דם) Noun.ms.Abs.+3mp | blood
+לְ (ל) Prep | to
+כַפֵּר (כפר) Verb.Piel.InfCon.Abs | cover (make atonement)
+בַּ (ב) Prep | in
+(ה) Art.+NAN | the
+קֹּדֶש (קדש) Noun.ms.Abs | holiness (holy place)
+יוֹצִיא (יצא) Verb.Hiphil.Impf.3ms | go out (shall carry forth)
+אֶל (אל) Prep | to
+מִ (מן) Prep | from
+חוּץ (חוץ) Noun.ms.Abs | outside
+לַ (ל) Prep | to
+(ה) Art.+NAN | the
+מַּחֲנֶה (מחנה) Noun.s.Abs | camp
+וְ (ו) Conj.+NAN | and
+שָׂרְפוּ (שׂרף) Verb.Qal.Perf.3p | burn
+בָ (ב) Prep | in
+(ה) Art.+NAN | the
+אֵש (אש) Noun.s.Abs | fire
+אֶת (את) Prep | <object marker>
+עֹרֹתָם (עור) Noun.mp.Abs.+3mp | skin
+וְ (ו) Conj.+NAN | and
+אֶת (את) Prep | <object marker>
+בְּשָׂרָם (בשׂר) Noun.ms.Abs.+3mp | flesh
+וְ (ו) Conj.+NAN | and
+אֶת (את) Prep | <object marker>
+פִּרשָׁם (פרש) Noun.ms.Abs.+3mp | contents of stomach (dung)</p>
+<h2 id="lev-168">Lev 16:8<a class="headerlink" href="#lev-168" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 16:8
+======================================================================</p>
+<p>וְנָתַ֧ן אַהֲרֹ֛ן עַל־שְׁנֵ֥י הַשְּׂעִירִ֖ם גֹּורָלֹ֑ות גֹּורָ֤ל אֶחָד֙ לַיהוָ֔ה וְגֹורָ֥ל אֶחָ֖ד לַעֲזָאזֵֽל׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  נָתַ֧ן          נתן          Verb.Qal.Perf.3ms         give
+  אַהֲרֹ֛ן        אהרן         PropN.ms.Abs.+NAN         Aaron
+  עַל             על           Prep                      upon
+  שְׁנֵ֥י         שׁנים        Noun.d.Cst                two
+  הַ              ה            Art.+NAN                  the
+  שְּׂעִירִ֖ם     שׂעיר        Noun.mp.Abs               he-goat
+  גֹּורָלֹ֑ות     גורל         Noun.mp.Abs               lot
+  גֹּורָ֤ל        גורל         Noun.ms.Abs               lot
+  אֶחָד֙          אחד          Noun.s.Abs                one
+  לַ              ל            Prep                      to
+  יהוָ֔ה          יהוה         PropN.ms.Abs.+NAN         YHWH
+  וְ              ו            Conj.+NAN                 and
+  גֹורָ֥ל         גורל         Noun.ms.Abs               lot
+  אֶחָ֖ד          אחד          Noun.s.Abs                one
+  לַ              ל            Prep                      to
+  עֲזָאזֵֽל       עזאזל        PropN.ms.Abs.+NAN         Azazel</p>
+<h2 id="lev-177">Lev 17:7<a class="headerlink" href="#lev-177" title="Permanent link">&para;</a></h2>
+<p>======================================================================
+  Leviticus 17:7
+======================================================================</p>
+<p>וְלֹא־יִזְבְּח֥וּ עֹוד֙ אֶת־זִבְחֵיהֶ֔ם לַשְּׂעִירִ֕ם אֲשֶׁ֛ר הֵ֥ם זֹנִ֖ים אַחֲרֵיהֶ֑ם חֻקַּ֥ת עֹולָ֛ם תִּֽהְיֶה־זֹּ֥את לָהֶ֖ם לְדֹרֹתָֽם׃ </p>
+<p>Hebrew          Lemma        Parsing                   Gloss</p>
+<hr />
+<p>וְ              ו            Conj.+NAN                 and
+  לֹא             לא           Neg.+NAN                  not
+  יִזְבְּח֥וּ     זבח          Verb.Qal.Impf.3mp         slaughter
+  עֹוד֙           עוד          Noun.ms.Abs               duration
+  אֶת             את           Prep                      <object marker>
+  זִבְחֵיהֶ֔ם     זבח          Noun.mp.Abs.+3mp          sacrifice
+  לַ              ל            Prep                      to
+                  ה            Art.+NAN                  the
+  שְּׂעִירִ֕ם     שׂעיר        Noun.mp.Abs               demon
+  אֲשֶׁ֛ר         אשׁר         Conj.+NAN                 <relative>
+  הֵ֥ם            הם           PersPron.3mp.+NAN         they
+  זֹנִ֖ים         זנה          Verb.Qal.Ptcp.unknownmp.Abs fornicate
+  אַחֲרֵיהֶ֑ם     אחר          Noun.mp.Abs.+3mp          after
+  חֻקַּ֥ת         חקה          Noun.fs.Cst               regulation
+  עֹולָ֛ם         עולם         Noun.ms.Abs               eternity
+  תִּֽהְיֶה       היה          Verb.Qal.Impf.3fs         be
+  זֹּ֥את          זאת          DemPron.fs.+NAN           this
+  לָהֶ֖ם          ל            Prep.+3mp                 to
+  לְ              ל            Prep                      to
+  דֹרֹתָֽם        דור          Noun.mp.Abs.+3mp          generation</p>
+<h2 id="lev-2220">Lev 22:20<a class="headerlink" href="#lev-2220" title="Permanent link">&para;</a></h2>
+<p>Leviticus 22:20
+Hebrew: כֹּל אֲשֶר־בּוֹ מוּם לֹא תַקְרִיבוּ כִּי־לֹא לְרָצוֹן יִהְיֶה לָכֶם׃
+כֹּל (כל) Noun.ms.Cst | whole (whatsoever)
+אֲשֶר (אשר) Conj.+NAN | <relative>
+בּוֹ (ב) Prep.+3ms | in (in it)
+מוּם (מאום) Noun.ms.Abs | blemish
+לֹא (לא) Neg.+NAN | not
+תַקְרִיבוּ (קרב) Verb.Hiphil.Impf.2mp | approach (shall ye offer)
+כִּי (כי) Conj.+NAN | that (for)
+לֹא (לא) Neg.+NAN | not
+לְ (ל) Prep | to
+רָצוֹן (רצון) Noun.ms.Abs | pleasure (acceptance)
+יִהְיֶה (היה) Verb.Qal.Impf.3ms | be
+לָכֶם (ל) Prep.+2mp | to (for you)</p>
+<h2 id="lev-2221">Lev 22:21<a class="headerlink" href="#lev-2221" title="Permanent link">&para;</a></h2>
+<p>Leviticus 22:21
+Hebrew: וְאִיש כִּי־יַקְרִיב זֶבַח־שְלָמִים לַיהוָה לְפַלֵּא־נֶדֶר אוֹ לִנְדָבָה בַּבָּקָר אוֹ בַצֹּאן תָּמִים יִהְיֶה לְרָצוֹן כָּל־מוּם לֹא יִהְיֶה־בּוֹ׃
+וְ (ו) Conj.+NAN | and
+אִיש (איש) Noun.ms.Abs | man
+כִּי (כי) Conj.+NAN | that (when)
+יַקְרִיב (קרב) Verb.Hiphil.Impf.3ms | approach (offereth)
+זֶבַח (זבח) Noun.ms.Cst | sacrifice
+שְלָמִים (שלם) Noun.mp.Abs | peace offerings
+לַ (ל) Prep | to
+יהוָה (יהוה) PropN.ms.Abs.+NAN | YHWH
+לְ (ל) Prep | to
+פַלֵּא (פלא) Verb.Piel.InfCon.Cst | be miraculous (to accomplish)
+נֶדֶר (נדר) Noun.ms.Abs | vow
+אוֹ (או) Conj.+NAN | or
+לִ (ל) Prep | to
+נְדָבָה (נדבה) Noun.fs.Abs | free will (freewill offering)
+בַּ (ב) Prep | in
+(ה) Art.+NAN | the
+בָקָר (בקר) Noun.s.Abs | cattle (beeves)
+אוֹ (או) Conj.+NAN | or
+בַ (ב) Prep | in
+(ה) Art.+NAN | the
+צֹּאן (צאן) Noun.s.Abs | cattle (sheep)
+תָּמִים (תמים) Adj.ms.Abs | complete (perfect / without blemish) [H8549 tamiym]
+יִהְיֶה (היה) Verb.Qal.Impf.3ms | be
+לְ (ל) Prep | to
+רָצוֹן (רצון) Noun.ms.Abs | pleasure (acceptance)
+כָּל (כל) Noun.ms.Cst | whole (any)
+מוּם (מאום) Noun.ms.Abs | blemish
+לֹא (לא) Neg.+NAN | not
+יִהְיֶה (היה) Verb.Qal.Impf.3ms | be
+בּוֹ (ב) Prep.+3ms | in (therein)</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="/" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M96 512c-53 0-96-43-96-96V96C0 43 43 0 96 0h304c26.5 0 48 21.5 48 48v288c0 20.9-13.4 38.7-32 45.3V448c17.7 0 32 14.3 32 32s-14.3 32-32 32zm0-128c-17.7 0-32 14.3-32 32s14.3 32 32 32h256v-64zm96-304v48h-48c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h48v112c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V192h48c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16h-48V80c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.sections", "navigation.top", "navigation.indexes", "search.suggest", "search.highlight", "content.tabs.link", "toc.follow"], "search": "../../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../../../javascripts/verse-popup.js"></script>
+      
+        <script src="../../../../javascripts/study-breadcrumbs.js"></script>
+      
+        <script src="../../../../javascripts/external-links.js"></script>
+      
+    
+  </body>
+</html>
