@@ -1,0 +1,9 @@
+# Cross-Testament Parallels
+
+- Dan 8:14 → Rom 3:24-26 (nt, tsadaq->dikaioo lexical chain: nitsdaq (be justified/vindicated) is rendered in the LXX tsadaq-corpus by dikaioo, the verb Paul uses in Rom 3:24,26 (dikaioumenoi / dikaiounta); atonement (hilasterion) grounds the justifying verdict, matching the vindication-includes-atonement structure.)
+- Dan 8:14 → Dan 7:9-10 (ot, shared judgment-scene: nitsdaq (single justice-verb) compresses the seated court and opened books of Dan 7:9-10 (din, H1780); the sanctuary vindicated = the court's verdict rendered.)
+- Dan 8:14 → Dan 9:24 (ot, shared root and register (tsadaq/tsedeq H6663/H6664) and shared vocabulary (pesha, qodesh); Dan 9:24 supplies the kaphar->tsedeq bridge that grounds the 8:14 vindication.)
+- Job 4:17 → Job 25:4 (ot, shared wisdom-couplet form pairing tsadaq (be just) with a purity verb (taher in 4:17, zakah in 25:4); the sdq || purity parallelism that grounds the inclusion thesis.)
+- Psa 51:4 → Rom 3:26 (nt, direct OT->NT quotation stream: Psa 51:4 tsadaq ('be justified when thou judgest') is quoted at Rom 3:4 and stands behind the dikaios kai dikaiounta of Rom 3:26 (tsadaq->dikaioo).)
+- Zech 3:4 → Dan 7:9-10 (ot, shared accuser-court-verdict courtroom shape (Satan the accuser, the accused defended, verdict rendered); Zech 3 models the cleansing-within-vindication that Dan 7's court and Dan 8:14's nitsdaq enact.)
+- Isa 53:11 → Rom 3:24-26 (nt, shared structure: the justifying verdict grounded in sin-bearing (Isa 53:11 'justify many... bear their iniquities' -> Rom 3:25-26 propitiation grounding dikaios kai dikaiounta); tsadaq->dikaioo bridge into the NT.)

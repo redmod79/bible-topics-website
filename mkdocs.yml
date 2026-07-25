@@ -79,6 +79,33 @@ nav:
 
   - Studies:
 
+    - "Daniel 8:14 — 'Cleansed' or 'Vindicated'?":
+      - studies/daniel-8-14-vindicated/conclusion-simple.md
+      - "Interactive Argument Map": studies/daniel-8-14-vindicated/interactive-map.md
+      - Conclusion: studies/daniel-8-14-vindicated/CONCLUSION.md
+      - Analysis: studies/daniel-8-14-vindicated/03-analysis.md
+      - Verses: studies/daniel-8-14-vindicated/02-verses.md
+      - Word Studies: studies/daniel-8-14-vindicated/04-word-studies.md
+      - Topics: studies/daniel-8-14-vindicated/01-topics.md
+      - Research Scope: studies/daniel-8-14-vindicated/PROMPT.md
+      - Raw Data:
+        - "Hebrew Parsing": studies/daniel-8-14-vindicated/raw-data/hebrew-parsing.md
+        - "Greek Parsing": studies/daniel-8-14-vindicated/raw-data/greek-parsing.md
+        - "Cross-Testament Parallels": studies/daniel-8-14-vindicated/raw-data/parallels.md
+
+    - "Daniel 8:14 — Did Daniel Encode the 2300 Days?":
+      - studies/daniel-8-14-erev-boqer/conclusion-simple.md
+      - "Interactive Argument Map": studies/daniel-8-14-erev-boqer/interactive-map.md
+      - Conclusion: studies/daniel-8-14-erev-boqer/CONCLUSION.md
+      - Analysis: studies/daniel-8-14-erev-boqer/03-analysis.md
+      - Verses: studies/daniel-8-14-erev-boqer/02-verses.md
+      - Word Studies: studies/daniel-8-14-erev-boqer/04-word-studies.md
+      - Topics: studies/daniel-8-14-erev-boqer/01-topics.md
+      - Research Scope: studies/daniel-8-14-erev-boqer/PROMPT.md
+      - Raw Data:
+        - "Hebrew Parsing": studies/daniel-8-14-erev-boqer/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/daniel-8-14-erev-boqer/raw-data/parallels.md
+
     - "What Does the Scapegoat Represent on the Day of Atonement?":
       - studies/scapegoat-day-of-atonement/conclusion-simple.md
       - "Interactive Argument Map": studies/scapegoat-day-of-atonement/interactive-map.md

@@ -26,6 +26,8 @@ Every study follows the same core principles:
 
 | Study | Question |
 |-------|----------|
+| [Daniel 8:14 — "Cleansed" or "Vindicated"?](studies/daniel-8-14-vindicated/conclusion-simple.md) | The KJV says the sanctuary shall be "cleansed," but the Hebrew *nitsdaq* is a courtroom word meaning "vindicated/justified." Is "vindicated" the better rendering, is it the fitting answer to the trampling-question of 8:13, and does it include cleansing or exclude it? Includes an interactive argument map of the full reasoning. |
+| [Daniel 8:14 — Did Daniel Encode the 2300 Days?](studies/daniel-8-14-erev-boqer/conclusion-simple.md) | Daniel writes the odd phrase *erev boqer* ("evening-morning") instead of his usual "days," and Gabriel tells him to "seal the vision." Did Daniel deliberately encode the time to be decoded later as years? The concealed-then-decodable *effect* holds; the human encoding *intent* does not. Includes an interactive argument map. |
 | [What Does the Scapegoat Represent on the Day of Atonement?](studies/scapegoat-day-of-atonement/conclusion-simple.md) | On the Day of Atonement one goat is killed and the other — the "scapegoat" (Azazel) — is sent alive into the wilderness. What does that live goat represent? Includes an interactive argument map of the full reasoning. |
 | [Did the Apostle John Write Revelation?](studies/revelation-authorship-grammar/conclusion-simple.md) | A Greek grammar and vocabulary analysis comparing Revelation against the Gospel of John and 1-3 John to evaluate common authorship. |
 | [The Two Genealogies of Jesus](studies/genealogies-of-jesus/conclusion-simple.md) | Why does Matthew trace Jesus' lineage through Solomon while Luke traces it through Nathan? Are the two genealogies contradictory or complementary? |
